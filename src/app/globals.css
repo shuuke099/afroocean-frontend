@@ -1,15 +1,31 @@
 @import "tailwindcss";
 
+/* Base system */
 :root {
   --background: #ffffff;
   --foreground: #171717;
 }
 
 @theme inline {
+  /* System colors */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  /* Fonts */
+  --font-sans: var(--font-inter), sans-serif;
+  --font-mono: "Roboto Mono", monospace;
+
+  /* 🌊 AfroOcean Brand */
+  --color-primary: #0284c7;       /* Ocean Blue */
+  --color-primary-light: #38bdf8;
+  --color-primary-dark: #0369a1;
+
+  --color-secondary: #0f172a;     /* Navy */
+  --color-neutral: #334155;       /* Slate Gray */
+
+  --color-accent: #f97316;        /* Orange CTA */
+  --color-accent-light: #fb923c;
+  --color-accent-dark: #ea580c;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -22,5 +38,5 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
 }
