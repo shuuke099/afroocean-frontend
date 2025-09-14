@@ -41,7 +41,7 @@ export default function CategoryGrid({ gridClasses, limit, showMore, showMoreLin
       ))}
 
       {/* "View More" card only if enabled */}
-      {showMore && showMoreLink && (
+      {/* {showMore && showMoreLink && (
   <div className="flex items-center justify-center col-span-2 sm:col-span-1">
   <Link
     href={showMoreLink}
@@ -51,7 +51,7 @@ export default function CategoryGrid({ gridClasses, limit, showMore, showMoreLin
   </Link>
 </div>
 
-)}
+)} */}
 
     </div>
   );

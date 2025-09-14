@@ -13,6 +13,7 @@ import {
 import { Button } from "../ui/button";
 import { Input } from "../ui/input";
 import Container from "../ui/container";
+import CategoryList from "../home/CategoryList";
 
 
 export default function TopNavbar() {
@@ -48,7 +49,7 @@ export default function TopNavbar() {
 
 
           {/* Right side */}
-          <div className="flex items-center gap-3 text-neutral">
+          <div className="hidden sm:flex items-center gap-3 text-neutral">
             <span className="cursor-pointer text-xs sm:text-sm">
               Download the app
             </span>
@@ -61,10 +62,11 @@ export default function TopNavbar() {
               <ChevronDown className="w-4 h-4 ml-1" />
             </span>
           </div>
+
         </div>
 
         {/* Main Nav (Logo + Search + User/Cart) */}
-        <div className="flex items-center justify-between gap-3 py-3">
+        <div className="flex items-center justify-between gap-3 py-1">
           {/* Logo */}
           <Link href="/" className="block w-[180px] h-auto cursor-pointer">
             <Image
@@ -105,6 +107,7 @@ export default function TopNavbar() {
             </div>
           </div>
         </div>
+         <CategoryList/>
       </Container>
 
 
