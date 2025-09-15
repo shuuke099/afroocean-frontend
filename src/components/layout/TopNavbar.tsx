@@ -13,8 +13,6 @@ import {
 import { Button } from "../ui/button";
 import { Input } from "../ui/input";
 import Container from "../ui/container";
-import CategoryList from "../home/CategoryList";
-
 
 export default function TopNavbar() {
   return (
@@ -24,29 +22,28 @@ export default function TopNavbar() {
         <div className="flex flex-wrap items-center justify-between py-2 text-sm gap-2 ">
           {/* Left side */}
           <div className="flex flex-wrap items-center gap-3">
-  {/* Accent outline (Alibaba style) */}
-  <Button className="border border-accent text-accent bg-background hover:bg-accent-light hover:text-white active:bg-accent-light active:text-white px-3 py-1 rounded transition-colors text-xs sm:text-sm">
-    Become Seller
-  </Button>
+            {/* Accent outline (Alibaba style) */}
+            <Button className="border border-accent text-accent bg-background hover:bg-accent-light hover:text-white active:bg-accent-light active:text-white px-3 py-1 rounded transition-colors text-xs sm:text-sm">
+              Become Seller
+            </Button>
 
-  {/* Neutral outline with icon */}
-  <Button
-    variant="outline"
-    className="border border-neutral text-neutral hover:bg-neutral hover:text-white active:bg-neutral active:text-white px-3 py-1 rounded flex items-center gap-1 transition-colors text-xs sm:text-sm"
-  >
-    <PlaneTakeoff className="h-4 w-4 shrink-0" />
-    Book Flight
-  </Button>
+            {/* Neutral outline with icon */}
+            <Button
+              variant="outline"
+              className="border border-neutral text-neutral hover:bg-neutral hover:text-white active:bg-neutral active:text-white px-3 py-1 rounded flex items-center gap-1 transition-colors text-xs sm:text-sm"
+            >
+              <PlaneTakeoff className="h-4 w-4 shrink-0" />
+              Book Flight
+            </Button>
 
-  {/* Neutral outline simple */}
-  <Button
-    variant="outline"
-    className="border border-neutral text-neutral hover:bg-neutral hover:text-white active:bg-neutral active:text-white px-3 py-1 rounded transition-colors text-xs sm:text-sm"
-  >
-    Real State
-  </Button>
-         </div>
-
+            {/* Neutral outline simple */}
+            <Button
+              variant="outline"
+              className="border border-neutral text-neutral hover:bg-neutral hover:text-white active:bg-neutral active:text-white px-3 py-1 rounded transition-colors text-xs sm:text-sm"
+            >
+              Real State
+            </Button>
+          </div>
 
           {/* Right side */}
           <div className="hidden sm:flex items-center gap-3 text-neutral">
@@ -62,7 +59,6 @@ export default function TopNavbar() {
               <ChevronDown className="w-4 h-4 ml-1" />
             </span>
           </div>
-
         </div>
 
         {/* Main Nav (Logo + Search + User/Cart) */}
@@ -87,7 +83,7 @@ export default function TopNavbar() {
                 placeholder="Search products..."
                 className="flex-1 bg-transparent border-none outline-none focus:outline-none focus:ring-0 focus:shadow-none focus-visible:ring-0 text-sm px-4"
               />
-              <Button className="bg-primary hover:bg-primary-light text-white px-5 rounded-[2%] flex items-center gap-1 min-w-[50px]">
+              <Button className="bg-accent-light hover:bg-accent active:bg-accent focus:bg-accent text-white px-5 rounded-[2%] flex items-center gap-1 min-w-[50px] transition-colors duration-200">
                 <SearchIcon className="h-4 w-4" />
                 <span className="hidden sm:inline">Search</span>
               </Button>
@@ -107,11 +103,7 @@ export default function TopNavbar() {
             </div>
           </div>
         </div>
-         <CategoryList/>
       </Container>
-
-
-
     </header>
   );
 }

@@ -4,6 +4,7 @@ import ProductList from "@/components/home/ProductList";
 import Link from "next/link";
 import { CategoriesData } from "../data/categories";
 import CategoryScroller from "@/components/home/CategoryScroller";
+import CategoryList from "@/components/home/CategoryList";
 
 export const metadata = {
   title: "MultiVendor Marketplace | Fast Deals, Trusted Sellers",
@@ -41,7 +42,7 @@ export default function HomePage() {
   return (
     <>
       {/* Hero Banner */}
-     
+      <CategoryList/>
       <Hero />
 
       <Container>
@@ -50,7 +51,7 @@ export default function HomePage() {
   {/* <h2 className="text-lg font-bold text-primary-light mb-4">
     Popular Categories
   </h2> */}
-  <CategoryScroller categories={CategoriesData} />
+  <CategoryScroller/>
  
 </section>
 

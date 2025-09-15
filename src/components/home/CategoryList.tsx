@@ -1,10 +1,10 @@
 "use client";
 import { useState, useEffect } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, usePathname } from "next/navigation";
 
 export default function CategoryList() {
   const [categories, setCategories] = useState<{ name: string; slug: string }[]>([]);
-  const [active, setActive] = useState("all");
+  const pathname = usePathname();
   const router = useRouter();
 
   useEffect(() => {
@@ -19,8 +19,14 @@ export default function CategoryList() {
       });
   }, []);
 
+  // 🔹 Detect active category from URL
+  const active = (() => {
+    if (pathname === "/categories") return "all";
+    const parts = pathname.split("/");
+    return parts.length > 2 ? parts[2] : "all"; // /categories/[slug]
+  })();
+
   const handleClick = (slug: string) => {
-    setActive(slug);
     if (slug === "all") {
       router.push("/categories");
     } else {
