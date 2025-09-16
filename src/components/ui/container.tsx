@@ -1,5 +1,5 @@
 // components/ui/Container.tsx
-import { cn } from "@/lib/utils"; // optional utility for combining classes
+import { cn } from "@/lib/utils/utils"; // optional utility for combining classes
 
 export default function Container({
   children,

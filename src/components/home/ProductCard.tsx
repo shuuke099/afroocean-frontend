@@ -36,33 +36,40 @@ export default function ProductCard({
   fastDelivery,
 }: ProductCardProps) {
   return (
-    <div className="bg-white rounded-md overflow-hidden shadow-sm hover:shadow-md transition-all">
-      <Link href={`/products/${slug || id}`}>
-        <div className="relative w-full aspect-square">
-          <Image src={img} alt={title || name} fill className="object-cover" />
-          {/* Badges */}
-          {isLocal ? (
-            <span className="absolute top-1 left-1 bg-green-600 text-white text-[10px] px-1.5 py-0.5 rounded">
-              Local
-            </span>
-          ) : fastDelivery ? (
-            <span className="absolute top-1 left-1 bg-blue-500 text-white text-[10px] px-1.5 py-0.5 rounded">
-              Fast Delivery
-            </span>
-          ) : null}
-        </div>
-      </Link>
+    <Link
+      href={`/products/${slug}`}
+      className="block bg-white rounded-md overflow-hidden shadow-sm hover:shadow-md transition-all"
+    >
+      {/* Image */}
+      <div className="relative w-full aspect-square">
+        <Image
+          src={img}
+          alt={title || name}
+          fill
+          sizes="(max-width: 768px) 50vw, (max-width: 1200px) 25vw, 20vw"
+          className="object-cover"
+        />
 
+        {/* Badges */}
+        {isLocal ? (
+          <span className="absolute top-1 left-1 bg-green-600 text-white text-[10px] px-1.5 py-0.5 rounded">
+            Local
+          </span>
+        ) : fastDelivery ? (
+          <span className="absolute top-1 left-1 bg-blue-500 text-white text-[10px] px-1.5 py-0.5 rounded">
+            Fast Delivery
+          </span>
+        ) : null}
+      </div>
+
+      {/* Content */}
       <div className="p-2 text-sm space-y-1">
         {/* Header row */}
         <div className="flex justify-between items-center">
           {discount && <span className="text-xs text-red-500">{discount}</span>}
-          <Link
-            href={`/products/${slug || id}`}
-            className="text-[#ffa200] cursor-pointer"
-          >
+          <span className="text-[#ffa200] cursor-pointer">
             <ShoppingCart size={16} />
-          </Link>
+          </span>
         </div>
 
         {/* Product name */}
@@ -102,6 +109,6 @@ export default function ProductCard({
           <p className="text-[11px] text-gray-400">⏳ {countdown}</p>
         )}
       </div>
-    </div>
+    </Link>
   );
 }

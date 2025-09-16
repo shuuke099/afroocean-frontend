@@ -10,7 +10,11 @@ export default function Register() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [passwordConfirm, setPasswordConfirm] = useState("");
-  const [alert, setAlert] = useState<{ visible: boolean; type: "success" | "error"; message: string }>({
+  const [alert, setAlert] = useState<{
+    visible: boolean;
+    type: "success" | "error";
+    message: string;
+  }>({
     visible: false,
     type: "success",
     message: "",
@@ -22,7 +26,11 @@ export default function Register() {
     e.preventDefault();
 
     if (password !== passwordConfirm) {
-      setAlert({ visible: true, type: "error", message: "Passwords do not match!" });
+      setAlert({
+        visible: true,
+        type: "error",
+        message: "Passwords do not match!",
+      });
       setTimeout(() => setAlert({ ...alert, visible: false }), 3000);
       return;
     }
@@ -30,7 +38,11 @@ export default function Register() {
     // ✅ Here you would normally call your API
     console.log("Registering:", { firstName, lastName, email, password });
 
-    setAlert({ visible: true, type: "success", message: "Account created successfully!" });
+    setAlert({
+      visible: true,
+      type: "success",
+      message: "Account created successfully!",
+    });
 
     setTimeout(() => {
       setAlert({ ...alert, visible: false });
@@ -39,14 +51,16 @@ export default function Register() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col justify-center items-center bg-gray-50 px-4">
-      <div className="w-full max-w-md bg-white shadow-lg rounded-xl p-6">
+    <div className="min-h-screen flex flex-col  items-center bg-gray-50 px-4 py-10">
+      <div className="w-full max-w-md bg-white shadow-lg rounded-xl p-2">
         {/* Heading */}
         <div className="text-center mb-6">
-          <div className="w-12 h-12 mx-auto bg-primary-light text-white flex items-center justify-center rounded-full text-lg">
+          <div className="w-12 h-12 mx-auto bg-accent-light text-white flex items-center justify-center rounded-full text-lg">
             🔒
           </div>
-          <h1 className="mt-3 text-2xl font-bold text-gray-900">Create Account</h1>
+          <h1 className="mt-3 text-2xl font-bold text-gray-900">
+            Create Account
+          </h1>
           <p className="text-sm text-gray-500">Sign up to get started</p>
         </div>
 
@@ -54,7 +68,9 @@ export default function Register() {
         {alert.visible && (
           <div
             className={`mb-4 p-3 rounded text-sm font-medium ${
-              alert.type === "error" ? "bg-red-100 text-red-700" : "bg-green-100 text-green-700"
+              alert.type === "error"
+                ? "bg-red-100 text-red-700"
+                : "bg-green-100 text-green-700"
             }`}
           >
             {alert.message}
@@ -70,7 +86,7 @@ export default function Register() {
               value={firstName}
               onChange={(e) => setFirstName(e.target.value)}
               required
-              className="w-full px-3 py-2 border rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
+              className="w-full px-3 py-2 border border-accent-light rounded-lg focus:ring-2 focus:ring-primary focus:outline-none"
             />
             <input
               type="text"
@@ -78,7 +94,7 @@ export default function Register() {
               value={lastName}
               onChange={(e) => setLastName(e.target.value)}
               required
-              className="w-full px-3 py-2 border rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
+              className="w-full px-3 py-2 border border-accent-light rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
             />
           </div>
 
@@ -88,7 +104,7 @@ export default function Register() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
-            className="w-full px-3 py-2 border rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
+            className="w-full px-3 py-2 border border-accent-light rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
           />
 
           <input
@@ -98,7 +114,7 @@ export default function Register() {
             minLength={8}
             onChange={(e) => setPassword(e.target.value)}
             required
-            className="w-full px-3 py-2 border rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
+            className="w-full px-3 py-2 border border-accent-light rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
           />
 
           <input
@@ -108,12 +124,12 @@ export default function Register() {
             minLength={8}
             onChange={(e) => setPasswordConfirm(e.target.value)}
             required
-            className="w-full px-3 py-2 border rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
+            className="w-full px-3 py-2 border border-accent-light rounded-lg focus:ring-2 focus:ring-primary-light focus:outline-none"
           />
 
           <button
             type="submit"
-            className="w-full py-2 bg-primary-light text-white font-semibold rounded-lg hover:bg-primary transition"
+            className="w-full py-2 bg-accent-light text-white font-semibold rounded-lg hover:bg-primary transition"
           >
             Sign Up
           </button>
@@ -122,14 +138,19 @@ export default function Register() {
         {/* Redirect to login */}
         <p className="mt-6 text-center text-sm text-gray-600">
           Already have an account?{" "}
-          <Link href="/signin" className="text-primary-light font-medium hover:underline">
+          <Link
+            href="/signIn"
+            className="text-primary-light font-medium hover:underline"
+          >
             Sign in
           </Link>
         </p>
       </div>
 
       {/* Footer */}
-      <p className="mt-6 text-xs text-gray-500">© {new Date().getFullYear()} AfroOcean. All rights reserved.</p>
+      <p className="mt-6 text-xs text-gray-500">
+        © {new Date().getFullYear()} AfroOcean. All rights reserved.
+      </p>
     </div>
   );
 }

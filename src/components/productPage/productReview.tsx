@@ -54,61 +54,7 @@ export default function ProductReviews() {
         <span className="text-gray-700 font-medium">4.7 / 5</span>
         <span className="text-gray-400">(67 reviews)</span>
       </div>
-
-      {/* True to Size Fit Bar */}
-      <div className="mt-4 text-xs text-gray-600 w-[20%]">
-        <p className="mb-1">Fit Feedback</p>
-        <div className="flex flex-col  gap-4">
-          <div className="flex-1">
-            <div className="flex justify-between mb-1">
-              <span>Too Small</span>
-              <span>12%</span>
-            </div>
-            <div className="w-full bg-gray-200 h-2 rounded">
-              <div
-                className="bg-red-400 h-2 rounded"
-                style={{ width: "12%" }}
-              ></div>
-            </div>
-          </div>
-          <div className="flex-1">
-            <div className="flex justify-between mb-1">
-              <span>True to Size</span>
-              <span>78%</span>
-            </div>
-            <div className="w-full bg-gray-200 h-2 rounded">
-              <div
-                className="bg-green-500 h-2 rounded"
-                style={{ width: "78%" }}
-              ></div>
-            </div>
-          </div>
-          <div className="flex-1">
-            <div className="flex justify-between mb-1">
-              <span>Too Large</span>
-              <span>10%</span>
-            </div>
-            <div className="w-full bg-gray-200 h-2 rounded">
-              <div
-                className="bg-yellow-500 h-2 rounded"
-                style={{ width: "10%" }}
-              ></div>
-            </div>
-          </div>
-        </div>
-      </div>
-
       {/* Review Tags */}
-      <div className="mt-4 flex flex-wrap gap-2 text-xs">
-        {tags.map((tag, i) => (
-          <span
-            key={i}
-            className="bg-[#ffe082] text-[#333] px-2 py-[2px] rounded-full"
-          >
-            {tag}
-          </span>
-        ))}
-      </div>
 
       {/* Verified Reviews List */}
       <div className="mt-6 space-y-4 text-sm">

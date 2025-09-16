@@ -3,35 +3,36 @@
 import { useEffect, useRef, useState } from "react";
 import ProductCard from "./ProductCard";
 import Spinner from "../ui/Spinner";
-
-interface Product {
-  id: number;
-  slug: string;
-  name: string;
-  title: string;
-  img: string;
-  price: number;
-  originalPrice: number;
-  discount?: string;
-  countdown?: string;
-  sold: number;
-  isLocal: boolean;
-  rating: number;
-  fastDelivery: boolean;
-}
+import { useGetProductsQuery } from "@/lib/services/productsApi";
+import { NormalizedProduct } from "@/lib/normalizeProducts";
+import { searchProducts } from "@/lib/utils/searchProducts";
+import { getDiversifiedProducts } from "@/lib/utils/getDiversifiedProducts";
 
 export default function ProductList() {
-  const [products, setProducts] = useState<Product[]>([]);
-  const [visibleCount, setVisibleCount] = useState(12);
-  const [loading, setLoading] = useState(false);
+  const { data: products = [], isLoading } = useGetProductsQuery();
+  const [visibleProducts, setVisibleProducts] = useState<NormalizedProduct[]>(
+    []
+  );
+  const [page, setPage] = useState(0);
   const loaderRef = useRef<HTMLDivElement | null>(null);
+  const [loading, setLoading] = useState(false);
 
-  // Fetch normalized products
+  // Initial load
   useEffect(() => {
-    fetch("/api/products")
-      .then((res) => res.json())
-      .then((data) => setProducts(data));
-  }, []);
+    if (!products.length) return;
+
+    const lastSearch = localStorage.getItem("recentSearch");
+
+    if (lastSearch) {
+      // Returning user → personalize
+      const personalized = searchProducts(products, lastSearch, 12);
+      setVisibleProducts(personalized);
+    } else {
+      // New user → diversify
+      const diversified = getDiversifiedProducts(products, 12, 0);
+      setVisibleProducts(diversified);
+    }
+  }, [products]);
 
   // Infinite scroll observer
   useEffect(() => {
@@ -51,21 +52,36 @@ export default function ProductList() {
     return () => {
       if (loaderRef.current) observer.unobserve(loaderRef.current);
     };
-  }, [loading, products]);
+  }, [loading, products, visibleProducts]);
 
   const loadMore = () => {
-    if (visibleCount >= products.length) return;
+    if (!products.length) return;
     setLoading(true);
+
     setTimeout(() => {
-      setVisibleCount((prev) => Math.min(prev + 12, products.length));
+      const nextPage = page + 1;
+      const diversified = getDiversifiedProducts(products, 12, nextPage);
+
+      if (diversified.length > 0) {
+        setVisibleProducts((prev) => [...prev, ...diversified]);
+        setPage(nextPage);
+      }
       setLoading(false);
-    }, 800);
+    }, 600);
   };
+
+  if (isLoading) {
+    return (
+      <div className="flex justify-center items-center py-10">
+        <Spinner />
+      </div>
+    );
+  }
 
   return (
     <>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3">
-        {products.slice(0, visibleCount).map((product) => (
+        {visibleProducts.map((product) => (
           <ProductCard key={product.id} {...product} />
         ))}
       </div>
