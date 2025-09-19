@@ -6,7 +6,7 @@ import Container from "../ui/container";
 export default function Hero() {
   return (
     <Container>
-      <div className="relative w-full h-[150px] sm:h-[400px] overflow-hidden rounded-xl">
+      <div className="relative w-full h-[25vh] sm:h-[400px] overflow-hidden rounded-xl">
         <Image
           src="https://picsum.photos/seed/furniturebanner/1600/500"
           fill

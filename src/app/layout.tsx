@@ -1,12 +1,14 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Montserrat } from "next/font/google";
 import "./globals.css";
-import Providers from "./providers"; // client wrapper for Redux + ThemeProvider
-import TopNavbar from "@/components/layout/TopNavbar";
-import FooterLinks from "@/components/home/FooterLinks";
-import BottomNav from "@/components/layout/BottomNav";
+import Providers from "./providers";
+import AppShell from "@/components/layout/AppShell";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const montserrat = Montserrat({
+  subsets: ["latin"],
+  variable: "--font-montserrat",
+});
 
 export const metadata: Metadata = {
   title: "AfroOcean",
@@ -22,10 +24,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <body className={`${inter.className} font-sans`}>
         <Providers>
-          <TopNavbar />
-          <main>{children}</main>
-          <FooterLinks />
-          <BottomNav />
+          <AppShell>{children}</AppShell>
         </Providers>
       </body>
     </html>

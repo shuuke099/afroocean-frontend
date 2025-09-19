@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "next/navigation";
 import Container from "@/components/ui/container";
 import Breadcrumbs from "@/components/productPage/breadCrumbs";
-import ProductGallery from "@/components/productPage/productGallery";
+import ProductGallery from "@/components/ui/productGallery";
 import ProductReviews from "@/components/productPage/productReview";
 
 interface Product {

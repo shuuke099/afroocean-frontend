@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, usePathname } from "next/navigation"; // ⬅️ added usePathname
 import {
   SearchIcon,
   ShoppingCart,
@@ -11,7 +11,8 @@ import {
   Globe,
   Store,
   ChevronDown,
-  PlaneTakeoff,
+  Car,
+  Home,
 } from "lucide-react";
 import { Button } from "../ui/button";
 import { Input } from "../ui/input";
@@ -20,6 +21,7 @@ import Container from "../ui/container";
 export default function TopNavbar() {
   const [searchTerm, setSearchTerm] = useState("");
   const router = useRouter();
+  const pathname = usePathname(); // ⬅️ detect current route
 
   // 🔹 Auto search with debounce (only after user stops typing for 600ms)
   useEffect(() => {
@@ -27,42 +29,95 @@ export default function TopNavbar() {
 
     const timer = setTimeout(() => {
       localStorage.setItem("recentSearch", searchTerm.trim());
-      router.push(`/search?q=${encodeURIComponent(searchTerm.trim())}`);
+
+      // ⬅️ Route dynamically
+      if (pathname.startsWith("/real-estate")) {
+        router.push(
+          `/real-estate/search?q=${encodeURIComponent(searchTerm.trim())}`
+        );
+      } else if (pathname.startsWith("/automotive")) {
+        router.push(
+          `/automotive/search?q=${encodeURIComponent(searchTerm.trim())}`
+        );
+      } else {
+        router.push(`/search?q=${encodeURIComponent(searchTerm.trim())}`);
+      }
     }, 600);
 
     return () => clearTimeout(timer);
-  }, [searchTerm, router]);
+  }, [searchTerm, router, pathname]);
 
   // 🔹 Manual search (search button)
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (!searchTerm.trim()) return;
     localStorage.setItem("recentSearch", searchTerm.trim());
-    router.push(`/search?q=${encodeURIComponent(searchTerm.trim())}`);
+
+    if (pathname.startsWith("/real-estate")) {
+      router.push(
+        `/real-estate/search?q=${encodeURIComponent(searchTerm.trim())}`
+      );
+    } else if (pathname.startsWith("/automotive")) {
+      router.push(
+        `/automotive/search?q=${encodeURIComponent(searchTerm.trim())}`
+      );
+    } else {
+      router.push(`/search?q=${encodeURIComponent(searchTerm.trim())}`);
+    }
   };
+
+  // 🔹 Placeholder changes based on section
+  let placeholder = "Search products...";
+  if (pathname.startsWith("/real-estate")) {
+    placeholder = "Search homes, addresses, MLS#";
+  } else if (pathname.startsWith("/automotive")) {
+    placeholder = "Search cars, make, model, year";
+  }
 
   return (
     <header className="w-full bg-gradient-to-b from-primary-light via-white to-white">
       <Container>
         {/* Quick Actions */}
-        <div className="flex flex-wrap items-center justify-between py-2 text-sm gap-2 ">
-          <div className="flex flex-wrap items-center gap-3">
-            <Button className="border border-accent text-accent bg-background hover:bg-accent-light hover:text-white active:bg-accent-light active:text-white px-3 py-1 rounded text-xs sm:text-sm">
+        <div className="flex justify-between items-center py-2 text-sm ">
+          <div className="flex flex-nowrap items-center gap-2 w-full md:w-auto">
+            {/* Become Seller */}
+            <Button
+              className="flex-1 min-w-0 border border-accent text-accent bg-background 
+                      hover:bg-accent-light hover:text-white 
+                      active:bg-accent active:text-white 
+                      focus:bg-accent-light focus:text-white
+                        px-2 py-1 rounded text-[11px] sm:text-sm transition-colors"
+            >
               Become Seller
             </Button>
+
+            {/* Automotive */}
             <Button
               variant="outline"
-              className="border border-neutral text-neutral hover:bg-neutral hover:text-white px-3 py-1 rounded flex items-center gap-1 text-xs sm:text-sm"
+              className="flex-1 min-w-0 border border-neutral text-neutral 
+                      hover:bg-neutral hover:text-white 
+                      active:bg-neutral active:text-white 
+                      focus:bg-neutral focus:text-white
+                      px-2 py-1 rounded flex items-center gap-1 text-[11px] sm:text-sm transition-colors"
             >
-              <PlaneTakeoff className="h-4 w-4" />
-              Book Flight
+              <Car className="h-4 w-4" />
+              Automotive
             </Button>
-            <Button
-              variant="outline"
-              className="border border-neutral text-neutral hover:bg-neutral hover:text-white px-3 py-1 rounded text-xs sm:text-sm"
-            >
-              Real Estate
-            </Button>
+
+            {/* Real Estate */}
+            <Link href="/real-estate" className="flex-1 min-w-0">
+              <Button
+                variant="outline"
+                className="w-full border border-neutral text-neutral 
+                        hover:bg-neutral hover:text-white 
+                        active:bg-neutral active:text-white 
+                        focus:bg-neutral focus:text-white
+                        px-2 py-1 rounded flex items-center gap-1 text-[11px] sm:text-sm transition-colors"
+              >
+                <Home className="h-4 w-4" />
+                Real Estate
+              </Button>
+            </Link>
           </div>
 
           <div className="hidden sm:flex items-center gap-3 text-neutral">
@@ -104,7 +159,7 @@ export default function TopNavbar() {
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                placeholder="Search products..."
+                placeholder={placeholder} // ⬅️ dynamic placeholder
                 className="flex-1 bg-transparent border-none outline-none focus:outline-none focus:ring-0 focus:shadow-none focus-visible:ring-0 text-sm px-4"
               />
               <Button
