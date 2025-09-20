@@ -1,7 +1,7 @@
 import { ShieldCheck, Users, Heart } from "lucide-react";
-import InfoCard from "./InfoCard";
+import ChooseUs from "../common/ChooseUs";
 
-const features = [
+const realEstateReasons = [
   {
     title: "Verified Listings",
     desc: "Browse with confidence — every property is carefully verified for accuracy and authenticity.",
@@ -19,23 +19,12 @@ const features = [
   },
 ];
 
-export default function FeaturesSection() {
+export default function WhyChooseUsRealEstate() {
   return (
-    <section className="px-6 py-16 bg-white">
-      <h2 className="text-2xl sm:text-3xl font-bold text-center text-secondary mb-12">
-        Key Features
-      </h2>
-
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
-        {features.map((feature, i) => (
-          <InfoCard
-            key={i}
-            icon={feature.icon}
-            title={feature.title}
-            description={feature.desc}
-          />
-        ))}
-      </div>
-    </section>
+    <ChooseUs
+      title="Why Choose AfroOcean Real Estate"
+      reasons={realEstateReasons} // ✅ prop matches exactly
+      bgImage="/real-state.jpg"
+    />
   );
 }

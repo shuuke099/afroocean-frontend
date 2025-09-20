@@ -9,14 +9,14 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
 
   // Define landing pages that should hide TopNavbar
-  const hideNavbarOn = ["/real-estate", "/automotives"];
+  const hideNavbarOn = ["/real-estate", "/automotive"];
 
   // Check if current page is exactly landing (not search pages inside)
   const hideNavbar = hideNavbarOn.includes(pathname);
 
   return (
     <>
-      {<TopNavbar />}
+      {!hideNavbar && <TopNavbar />}
       <main>{children}</main>
       {!hideNavbar && <FooterLinks />}
       <BottomNav />

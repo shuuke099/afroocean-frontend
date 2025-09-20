@@ -92,17 +92,19 @@ export default function TopNavbar() {
             </Button>
 
             {/* Automotive */}
-            <Button
-              variant="outline"
-              className="flex-1 min-w-0 border border-neutral text-neutral 
-                      hover:bg-neutral hover:text-white 
-                      active:bg-neutral active:text-white 
-                      focus:bg-neutral focus:text-white
-                      px-2 py-1 rounded flex items-center gap-1 text-[11px] sm:text-sm transition-colors"
-            >
-              <Car className="h-4 w-4" />
-              Automotive
-            </Button>
+            <Link href="/automotive" className="flex-1 min-w-0">
+              <Button
+                variant="outline"
+                className="w-full border border-neutral text-neutral 
+              hover:bg-neutral hover:text-white 
+              active:bg-neutral active:text-white 
+              focus:bg-neutral focus:text-white
+              px-2 py-1 rounded flex items-center gap-1 text-[11px] sm:text-sm transition-colors"
+              >
+                <Car className="h-4 w-4" />
+                Automotive
+              </Button>
+            </Link>
 
             {/* Real Estate */}
             <Link href="/real-estate" className="flex-1 min-w-0">

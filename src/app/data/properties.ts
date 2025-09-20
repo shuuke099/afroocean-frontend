@@ -15,6 +15,7 @@ export const properties = [
     contact: "+1 (612) 555-1010",
     description:
       "This modern Tudor-style home blends classic architecture with updated finishes. Featuring a spacious living room, natural wood accents, and a chef’s kitchen, it offers comfort and elegance just minutes from downtown Minneapolis.",
+   category: "home" as const
   },
   {
     id: 2,
@@ -32,6 +33,7 @@ export const properties = [
     contact: "+1 (612) 555-2020",
     description:
       "Charming bungalow with hardwood floors, bright natural light, and a welcoming front porch. Perfect for first-time buyers or anyone seeking a low-maintenance lifestyle in the heart of Minneapolis.",
+   category: "home" as const
   },
   {
     id: 3,
@@ -49,6 +51,7 @@ export const properties = [
     contact: "+1 (952) 555-3030",
     description:
       "An exquisite luxury villa with expansive lake views, a gourmet kitchen, home theater, and private backyard oasis. Designed for comfort and entertainment in one of Edina’s most desirable neighborhoods.",
+    category: "home" as const
   },
   {
     id: 4,
@@ -66,5 +69,6 @@ export const properties = [
     contact: "+1 (651) 555-4040",
     description:
       "Beautifully maintained Craftsman with original woodwork, spacious bedrooms, and a finished basement. Conveniently located near schools, parks, and the cultural heart of St. Paul.",
+   category: "home" as const
   },
 ];

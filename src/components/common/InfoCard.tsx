@@ -1,13 +1,13 @@
-// src/components/real-estate/InfoCard.tsx
 import Link from "next/link";
 import { ReactNode } from "react";
 
 type InfoCardProps = {
   icon: string | ReactNode; // string URL or JSX element
   title: string;
-  description: string;
-  buttonText?: string; // optional, for reuse in places that don’t need a button
+  description?: string;     // made optional
+  buttonText?: string;
   href?: string;
+  hoverable?: boolean;      // new optional prop
 };
 
 export default function InfoCard({
@@ -16,19 +16,28 @@ export default function InfoCard({
   description,
   buttonText,
   href,
+  hoverable = true,
 }: InfoCardProps) {
   return (
-    <div className="bg-gray-50 rounded-xl shadow-sm p-6 text-center flex flex-col items-center space-y-3 hover:shadow-md transition">
-      {/* If icon is a string, render <img>, otherwise render JSX */}
+    <article
+      className={`bg-gray-50 rounded-xl shadow-sm p-6 text-center flex flex-col items-center space-y-3 ${
+        hoverable ? "hover:shadow-md transition" : ""
+      }`}
+    >
+      {/* Icon */}
       {typeof icon === "string" ? (
         <img src={icon} alt={title} className="w-16 h-16 object-contain" />
       ) : (
         icon
       )}
 
+      {/* Title */}
       <h3 className="text-lg font-bold text-secondary">{title}</h3>
-      <p className="text-sm text-gray-600">{description}</p>
 
+      {/* Description (optional) */}
+      {description && <p className="text-sm text-gray-600">{description}</p>}
+
+      {/* Button (optional) */}
       {buttonText && href && (
         <Link
           href={href}
@@ -37,6 +46,6 @@ export default function InfoCard({
           {buttonText}
         </Link>
       )}
-    </div>
+    </article>
   );
 }
