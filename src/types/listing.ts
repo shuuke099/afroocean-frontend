@@ -15,3 +15,25 @@ export type BaseListing = {
     | "electronics"
     | "other";
 };
+export type ListingStatus =
+  | "active"
+  | "pending"
+  | "draft"
+  | "rejected"
+  | "sold";
+
+export type ListingCategory = "real-estate" | "automotive" | "product";
+
+export interface Listing {
+  id: string;
+  title: string;
+  category: ListingCategory;
+  price: number;
+  currency: string; // "USD"
+  status: ListingStatus;
+  views: number;
+  inquiries: number;
+  thumbnail: string;
+  createdAt: string; // ISO
+  updatedAt: string; // ISO
+}
