@@ -1,0 +1,6986 @@
+[
+  {
+    "id": "p-0001",
+    "slug": "dresses-1",
+    "translations": {
+      "en": {
+        "category": "Fashion / Women / Dresses",
+        "name": "Red Evening Dress",
+        "description": "Elegant red evening dress for parties and formal events."
+      },
+      "so": {
+        "category": "Fashion / Haween / Cambuur",
+        "name": "Dharka Habeen Casaan",
+        "description": "Dharkani waa ku habboon xafladaha iyo munaasabadaha rasmiga ah."
+      },
+      "ar": {
+        "category": "Fashion / نساء / فساتين",
+        "name": "فستان سهرة أحمر",
+        "description": "فستان أنيق باللون الأحمر مناسب للحفلات."
+      },
+      "fr": {
+        "category": "Fashion / Femmes / Robes",
+        "name": "Robe de soirée rouge",
+        "description": "Robe élégante idéale pour les événements."
+      },
+      "es": {
+        "category": "Fashion / Mujeres / Vestidos",
+        "name": "Vestido de noche rojo",
+        "description": "Vestido elegante rojo para fiestas."
+      }
+    },
+    "price": {
+      "amount": 470.36,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 2,
+      "sku": "DRESSES_1-1",
+      "stockStatus": "low"
+    },
+    "seller": {
+      "id": "s-302",
+      "name": "MN Wheels & Motors",
+      "logoUrl": "https://picsum.photos/seed/s302/100/100",
+      "region": "Minnesota",
+      "rating": 4.4,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/dresses-1-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/dresses-1-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/dresses-1-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/dresses-1-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 20,
+      "promotion": "Clearance",
+      "clearance": false,
+      "startDate": "2025-09-20",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 2710,
+      "inquiries": 32,
+      "sales": 269,
+      "flags": 0,
+      "ratings": 4.47,
+      "wishlistCount": 216,
+      "cartAdds": 260
+    },
+    "reviews": {
+      "average": 4.04,
+      "count": 371,
+      "breakdown": {
+        "5": 222,
+        "4": 92,
+        "3": 37,
+        "2": 11,
+        "1": 7
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-09-15"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-19",
+      "updatedAt": "2025-08-25",
+      "publishedAt": "2025-06-19",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "3.04 kg",
+      "dimensions": "27x29x7 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Mogadishu",
+      "coordinates": [
+        29.147263,
+        135.501398
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Red Evening Dress | Fashion Women Dresses",
+      "seoDescription": "Buy Red Evening Dress in Dresses category. Great price & fast delivery.",
+      "searchKeywords": [
+        "dresses 1",
+        "Fashion",
+        "Women",
+        "Dresses"
+      ],
+      "tags": [
+        "Dresses",
+        "Fashion",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0002",
+    "slug": "suits-blazers-2",
+    "translations": {
+      "en": {
+        "category": "Fashion / Men / Suits & Blazers",
+        "name": "Classic Navy Suit",
+        "description": "Classic tailored navy suit suitable for business or weddings."
+      },
+      "so": {
+        "category": "Fashion / Rag / Suud",
+        "name": "Suud Buluug Madow",
+        "description": "Suud tayo leh oo ku habboon xaflado iyo shaqo."
+      },
+      "ar": {
+        "category": "Fashion / رجال / بدلات وبلايزر",
+        "name": "بدلة رسمية زرقاء",
+        "description": "بدلة مفصلة مناسبة للأعمال والمناسبات."
+      },
+      "fr": {
+        "category": "Fashion / Hommes / Costumes & Blazers",
+        "name": "Costume bleu marine",
+        "description": "Costume ajusté pour le travail ou mariages."
+      },
+      "es": {
+        "category": "Fashion / Hombres / Trajes y blazers",
+        "name": "Traje azul marino",
+        "description": "Traje clásico para negocios o bodas."
+      }
+    },
+    "price": {
+      "amount": 152.87,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 5,
+      "sku": "SUITS_BLAZERS_2-2",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-201",
+      "name": "Nairobi AutoMall",
+      "logoUrl": "https://picsum.photos/seed/s201/100/100",
+      "region": "Kenya",
+      "rating": 3.74,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/suits-blazers-2-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/suits-blazers-2-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/suits-blazers-2-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/suits-blazers-2-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 377,
+      "inquiries": 105,
+      "sales": 186,
+      "flags": 5,
+      "ratings": 4.58,
+      "wishlistCount": 227,
+      "cartAdds": 312
+    },
+    "reviews": {
+      "average": 3.93,
+      "count": 459,
+      "breakdown": {
+        "5": 275,
+        "4": 114,
+        "3": 45,
+        "2": 13,
+        "1": 9
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-09-16"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-14",
+      "updatedAt": "2025-08-06",
+      "publishedAt": "2025-06-14",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "7.14 kg",
+      "dimensions": "34x57x39 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Minneapolis",
+      "coordinates": [
+        50.062327,
+        1.046409
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Classic Navy Suit | Fashion Men Suits & Blazers",
+      "seoDescription": "Buy Classic Navy Suit in Suits & Blazers category. Great price & fast delivery.",
+      "searchKeywords": [
+        "suits blazers 2",
+        "Fashion",
+        "Men",
+        "Suits & Blazers"
+      ],
+      "tags": [
+        "Suits & Blazers",
+        "Fashion",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0003",
+    "slug": "shoes-3",
+    "translations": {
+      "en": {
+        "category": "Fashion / Women / Shoes",
+        "name": "Leather Ankle Boots",
+        "description": "Premium leather ankle boots with comfortable sole."
+      },
+      "so": {
+        "category": "Fashion / Haween / Kabo",
+        "name": "Kabo Maqaarka Suulka",
+        "description": "Kabo maqaar tayo leh oo raaxo leh."
+      },
+      "ar": {
+        "category": "Fashion / نساء / أحذية",
+        "name": "حذاء كاحل جلدي",
+        "description": "حذاء جلدي بجودة عالية وبنعل مريح."
+      },
+      "fr": {
+        "category": "Fashion / Femmes / Chaussures",
+        "name": "Bottines en cuir",
+        "description": "Bottines en cuir de qualité."
+      },
+      "es": {
+        "category": "Fashion / Mujeres / Zapatos",
+        "name": "Botines de cuero",
+        "description": "Botines de cuero de alta calidad."
+      }
+    },
+    "price": {
+      "amount": 487.68,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 25,
+      "sku": "SHOES_3-3",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 3.62,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/shoes-3-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/shoes-3-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/shoes-3-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/shoes-3-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 3060,
+      "inquiries": 141,
+      "sales": 52,
+      "flags": 5,
+      "ratings": 4.77,
+      "wishlistCount": 63,
+      "cartAdds": 145
+    },
+    "reviews": {
+      "average": 3.63,
+      "count": 164,
+      "breakdown": {
+        "5": 98,
+        "4": 41,
+        "3": 16,
+        "2": 4,
+        "1": 3
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-08-30"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-08-01",
+      "updatedAt": "2025-09-20",
+      "publishedAt": "2025-08-01",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "14.21 kg",
+      "dimensions": "38x67x25 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Mogadishu",
+      "coordinates": [
+        -18.638286,
+        -45.373864
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Leather Ankle Boots | Fashion Women Shoes",
+      "seoDescription": "Buy Leather Ankle Boots in Shoes category. Great price & fast delivery.",
+      "searchKeywords": [
+        "shoes 3",
+        "Fashion",
+        "Women",
+        "Shoes"
+      ],
+      "tags": [
+        "Shoes",
+        "Fashion",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0004",
+    "slug": "boys-clothing-4",
+    "translations": {
+      "en": {
+        "category": "Fashion / Kids / Boys’ Clothing",
+        "name": "Boys Cotton T-Shirt",
+        "description": "Soft cotton t-shirt for everyday wear."
+      },
+      "so": {
+        "category": "Fashion / Carruur / Dharka Wiilasha",
+        "name": "Funanad Wiilasha Coton",
+        "description": "Funanad jilicsan oo ku habboon maalin walba."
+      },
+      "ar": {
+        "category": "Fashion / أطفال / ملابس الأولاد",
+        "name": "قميص قطن للأولاد",
+        "description": "قميص قطني مريح للاستخدام اليومي."
+      },
+      "fr": {
+        "category": "Fashion / Enfants / Vêtements garçons",
+        "name": "T-shirt garçon en coton",
+        "description": "T-shirt en coton doux pour tous les jours."
+      },
+      "es": {
+        "category": "Fashion / Niños / Ropa para niños",
+        "name": "Camiseta de niño de algodón",
+        "description": "Camiseta de algodón suave para diario."
+      }
+    },
+    "price": {
+      "amount": 261.76,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 0,
+      "sku": "BOYS_CLOTHING_4-4",
+      "stockStatus": "out_of_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 3.57,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/boys-clothing-4-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/boys-clothing-4-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/boys-clothing-4-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/boys-clothing-4-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 1147,
+      "inquiries": 9,
+      "sales": 146,
+      "flags": 3,
+      "ratings": 4.54,
+      "wishlistCount": 71,
+      "cartAdds": 388
+    },
+    "reviews": {
+      "average": 4.56,
+      "count": 459,
+      "breakdown": {
+        "5": 275,
+        "4": 114,
+        "3": 45,
+        "2": 13,
+        "1": 9
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-06-02",
+      "updatedAt": "2025-09-20",
+      "publishedAt": "2025-06-02",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "0.48 kg",
+      "dimensions": "37x29x38 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Toronto",
+      "coordinates": [
+        -69.986365,
+        -76.283432
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Boys Cotton T-Shirt | Fashion Kids Boys’ Clothing",
+      "seoDescription": "Buy Boys Cotton T-Shirt in Boys’ Clothing category. Great price & fast delivery.",
+      "searchKeywords": [
+        "boys clothing 4",
+        "Fashion",
+        "Kids",
+        "Boys’ Clothing"
+      ],
+      "tags": [
+        "Boys’ Clothing",
+        "Fashion",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0005",
+    "slug": "handbags-5",
+    "translations": {
+      "en": {
+        "category": "Fashion / Women / Handbags",
+        "name": "Crossbody Handbag",
+        "description": "Compact crossbody with adjustable strap."
+      },
+      "so": {
+        "category": "Fashion / Haween / Borsada Gacanta",
+        "name": "Borsada Gacanta Garabka",
+        "description": "Boorso yar oo garabka la saarto, suun la hagaajin karo."
+      },
+      "ar": {
+        "category": "Fashion / نساء / حقائب يد",
+        "name": "حقيبة كتف",
+        "description": "حقيبة صغيرة بحزام قابل للتعديل."
+      },
+      "fr": {
+        "category": "Fashion / Femmes / Sacs à main",
+        "name": "Sac bandoulière",
+        "description": "Sac compact à bandoulière."
+      },
+      "es": {
+        "category": "Fashion / Mujeres / Bolsos de mano",
+        "name": "Bolso bandolera",
+        "description": "Bolso compacto con correa ajustable."
+      }
+    },
+    "price": {
+      "amount": 637.18,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 20,
+      "sku": "HANDBAGS_5-5",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.97,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/handbags-5-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/handbags-5-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/handbags-5-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/handbags-5-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 4114,
+      "inquiries": 152,
+      "sales": 274,
+      "flags": 0,
+      "ratings": 4.45,
+      "wishlistCount": 294,
+      "cartAdds": 123
+    },
+    "reviews": {
+      "average": 4.58,
+      "count": 298,
+      "breakdown": {
+        "5": 178,
+        "4": 74,
+        "3": 29,
+        "2": 8,
+        "1": 5
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-18"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-14",
+      "updatedAt": "2025-08-30",
+      "publishedAt": "2025-07-14",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "2.97 kg",
+      "dimensions": "20x77x26 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Mogadishu",
+      "coordinates": [
+        -19.718328,
+        -10.751372
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Crossbody Handbag | Fashion Women Handbags",
+      "seoDescription": "Buy Crossbody Handbag in Handbags category. Great price & fast delivery.",
+      "searchKeywords": [
+        "handbags 5",
+        "Fashion",
+        "Women",
+        "Handbags"
+      ],
+      "tags": [
+        "Handbags",
+        "Fashion",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0006",
+    "slug": "jackets-coats-6",
+    "translations": {
+      "en": {
+        "category": "Fashion / Men / Jackets & Coats",
+        "name": "Winter Parka Jacket",
+        "description": "Warm parka with detachable hood for cold weather."
+      },
+      "so": {
+        "category": "Fashion / Rag / Jaakado & Koorar",
+        "name": "Jaakad Jiilaal",
+        "description": "Jaakad diiran oo leh koofiyad la saari karo."
+      },
+      "ar": {
+        "category": "Fashion / رجال / جاكيتات ومعاطف",
+        "name": "معطف باركا شتوي",
+        "description": "معطف دافئ مع قبعة قابلة للإزالة."
+      },
+      "fr": {
+        "category": "Fashion / Hommes / Vestes & Manteaux",
+        "name": "Parka d’hiver",
+        "description": "Parka chaude avec capuche amovible."
+      },
+      "es": {
+        "category": "Fashion / Hombres / Chaquetas y abrigos",
+        "name": "Parka de invierno",
+        "description": "Parka cálida con capucha desmontable."
+      }
+    },
+    "price": {
+      "amount": 22.83,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 23,
+      "sku": "JACKETS_COATS_6-6",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-301",
+      "name": "Twin Cities Deals",
+      "logoUrl": "https://picsum.photos/seed/s301/100/100",
+      "region": "Minnesota",
+      "rating": 4.04,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/jackets-coats-6-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/jackets-coats-6-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/jackets-coats-6-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/jackets-coats-6-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 5,
+      "promotion": "Holiday Deal",
+      "clearance": true,
+      "startDate": "2025-09-03",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 1454,
+      "inquiries": 199,
+      "sales": 237,
+      "flags": 5,
+      "ratings": 4.22,
+      "wishlistCount": 93,
+      "cartAdds": 415
+    },
+    "reviews": {
+      "average": 3.7,
+      "count": 468,
+      "breakdown": {
+        "5": 280,
+        "4": 117,
+        "3": 46,
+        "2": 14,
+        "1": 9
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-09-24"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-16",
+      "updatedAt": "2025-09-13",
+      "publishedAt": "2025-06-16",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "13.31 kg",
+      "dimensions": "50x49x35 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Ottawa",
+      "coordinates": [
+        -44.403522,
+        91.184731
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Winter Parka Jacket | Fashion Men Jackets & Coats",
+      "seoDescription": "Buy Winter Parka Jacket in Jackets & Coats category. Great price & fast delivery.",
+      "searchKeywords": [
+        "jackets coats 6",
+        "Fashion",
+        "Men",
+        "Jackets & Coats"
+      ],
+      "tags": [
+        "Jackets & Coats",
+        "Fashion",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0007",
+    "slug": "lingerie-sleepwear-7",
+    "translations": {
+      "en": {
+        "category": "Fashion / Women / Lingerie & Sleepwear",
+        "name": "Silk Nightgown",
+        "description": "Elegant silk nightgown with lace details."
+      },
+      "so": {
+        "category": "Fashion / Haween / Dharka Hoosta & Seexashada",
+        "name": "Dharka Seexashada Xariir",
+        "description": "Dharkaan seexashada wuxuu leeyahay faahfaahin xariir."
+      },
+      "ar": {
+        "category": "Fashion / نساء / لانجري وملابس نوم",
+        "name": "قميص نوم حرير",
+        "description": "قميص نوم أنيق بتفاصيل من الدانتيل."
+      },
+      "fr": {
+        "category": "Fashion / Femmes / Lingerie & Pyjamas",
+        "name": "Chemise de nuit en soie",
+        "description": "Chemise de nuit élégante en soie."
+      },
+      "es": {
+        "category": "Fashion / Mujeres / Lencería y pijamas",
+        "name": "Camisón de seda",
+        "description": "Camisón elegante de seda con encaje."
+      }
+    },
+    "price": {
+      "amount": 528.03,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 27,
+      "sku": "LINGERIE_SLEEPWE-7",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-101",
+      "name": "Mogadishu Boutique",
+      "logoUrl": "https://picsum.photos/seed/s101/100/100",
+      "region": "Somalia",
+      "rating": 4.58,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/lingerie-sleepwear-7-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/lingerie-sleepwear-7-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/lingerie-sleepwear-7-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/lingerie-sleepwear-7-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 3296,
+      "inquiries": 190,
+      "sales": 225,
+      "flags": 3,
+      "ratings": 4.01,
+      "wishlistCount": 95,
+      "cartAdds": 254
+    },
+    "reviews": {
+      "average": 4.54,
+      "count": 376,
+      "breakdown": {
+        "5": 225,
+        "4": 94,
+        "3": 37,
+        "2": 11,
+        "1": 7
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": "Low image quality",
+        "timestamp": "2025-09-02"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-08-02",
+      "updatedAt": "2025-09-20",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "6.57 kg",
+      "dimensions": "33x79x21 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "coordinates": [
+        -30.974417,
+        -73.569618
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Silk Nightgown | Fashion Women Lingerie & Sleepwear",
+      "seoDescription": "Buy Silk Nightgown in Lingerie & Sleepwear category. Great price & fast delivery.",
+      "searchKeywords": [
+        "lingerie sleepwear 7",
+        "Fashion",
+        "Women",
+        "Lingerie & Sleepwear"
+      ],
+      "tags": [
+        "Lingerie & Sleepwear",
+        "Fashion",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0008",
+    "slug": "shoes-8",
+    "translations": {
+      "en": {
+        "category": "Fashion / Men / Shoes",
+        "name": "Men’s Running Shoes",
+        "description": "Lightweight running shoes with breathable mesh."
+      },
+      "so": {
+        "category": "Fashion / Rag / Kabo",
+        "name": "Kabo Orod Ragga",
+        "description": "Kabo fudud oo leh maro neefsan karta."
+      },
+      "ar": {
+        "category": "Fashion / رجال / أحذية",
+        "name": "حذاء جري للرجال",
+        "description": "حذاء خفيف مع سطح شبكي قابل للتنفس."
+      },
+      "fr": {
+        "category": "Fashion / Hommes / Chaussures",
+        "name": "Chaussures de course homme",
+        "description": "Chaussures légères avec maille respirante."
+      },
+      "es": {
+        "category": "Fashion / Hombres / Zapatos",
+        "name": "Zapatillas de correr hombre",
+        "description": "Zapatillas ligeras con malla transpirable."
+      }
+    },
+    "price": {
+      "amount": 360.69,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 22,
+      "sku": "SHOES_8-8",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-201",
+      "name": "Nairobi AutoMall",
+      "logoUrl": "https://picsum.photos/seed/s201/100/100",
+      "region": "Kenya",
+      "rating": 4.06,
+      "status": "suspended"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/shoes-8-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/shoes-8-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/shoes-8-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/shoes-8-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 3583,
+      "inquiries": 70,
+      "sales": 29,
+      "flags": 0,
+      "ratings": 4.51,
+      "wishlistCount": 207,
+      "cartAdds": 186
+    },
+    "reviews": {
+      "average": 4.27,
+      "count": 163,
+      "breakdown": {
+        "5": 97,
+        "4": 40,
+        "3": 16,
+        "2": 4,
+        "1": 3
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": "Prohibited terms in title",
+        "timestamp": "2025-09-04"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-17",
+      "updatedAt": "2025-08-28",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "0.72 kg",
+      "dimensions": "18x40x26 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Mogadishu",
+      "coordinates": [
+        18.917069,
+        64.46234
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Men’s Running Shoes | Fashion Men Shoes",
+      "seoDescription": "Buy Men’s Running Shoes in Shoes category. Great price & fast delivery.",
+      "searchKeywords": [
+        "shoes 8",
+        "Fashion",
+        "Men",
+        "Shoes"
+      ],
+      "tags": [
+        "Shoes",
+        "Fashion",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0009",
+    "slug": "skirts-9",
+    "translations": {
+      "en": {
+        "category": "Fashion / Women / Skirts",
+        "name": "A-Line Denim Skirt",
+        "description": "Classic denim skirt with A-line cut."
+      },
+      "so": {
+        "category": "Fashion / Haween / Goono",
+        "name": "Goono Denim A-Line",
+        "description": "Goono denim qaab A-line ah."
+      },
+      "ar": {
+        "category": "Fashion / نساء / تنانير",
+        "name": "تنورة دنيم A-Line",
+        "description": "تنورة دنيم بقصّة A-line كلاسيكية."
+      },
+      "fr": {
+        "category": "Fashion / Femmes / Jupes",
+        "name": "Jupe trapèze en denim",
+        "description": "Jupe en denim coupe trapèze."
+      },
+      "es": {
+        "category": "Fashion / Mujeres / Faldas",
+        "name": "Falda vaquera línea A",
+        "description": "Falda denim clásica de corte A."
+      }
+    },
+    "price": {
+      "amount": 118.78,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 18,
+      "sku": "SKIRTS_9-9",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 3.63,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/skirts-9-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/skirts-9-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/skirts-9-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/skirts-9-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 2064,
+      "inquiries": 29,
+      "sales": 13,
+      "flags": 5,
+      "ratings": 3.78,
+      "wishlistCount": 265,
+      "cartAdds": 198
+    },
+    "reviews": {
+      "average": 4.87,
+      "count": 120,
+      "breakdown": {
+        "5": 72,
+        "4": 30,
+        "3": 12,
+        "2": 3,
+        "1": 2
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-03"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-30",
+      "updatedAt": "2025-09-12",
+      "publishedAt": "2025-07-30",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "14.95 kg",
+      "dimensions": "46x72x15 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "coordinates": [
+        -8.632317,
+        143.524451
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "A-Line Denim Skirt | Fashion Women Skirts",
+      "seoDescription": "Buy A-Line Denim Skirt in Skirts category. Great price & fast delivery.",
+      "searchKeywords": [
+        "skirts 9",
+        "Fashion",
+        "Women",
+        "Skirts"
+      ],
+      "tags": [
+        "Skirts",
+        "Fashion",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0010",
+    "slug": "t-shirts-10",
+    "translations": {
+      "en": {
+        "category": "Fashion / Men / T-Shirts",
+        "name": "Graphic Tee",
+        "description": "Soft cotton t-shirt with urban print."
+      },
+      "so": {
+        "category": "Fashion / Rag / Funanado",
+        "name": "Funanad Sawir leh",
+        "description": "Funanad suuf jilicsan leh daabacad casri ah."
+      },
+      "ar": {
+        "category": "Fashion / رجال / تيشيرتات",
+        "name": "تيشيرت مطبوع",
+        "description": "قميص قطني ناعم بطباعة عصرية."
+      },
+      "fr": {
+        "category": "Fashion / Hommes / T-Shirts",
+        "name": "T-shirt graphique",
+        "description": "T-shirt en coton doux imprimé urbain."
+      },
+      "es": {
+        "category": "Fashion / Hombres / Camisetas",
+        "name": "Camiseta gráfica",
+        "description": "Camiseta de algodón suave con estampado urbano."
+      }
+    },
+    "price": {
+      "amount": 284.47,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 21,
+      "sku": "T_SHIRTS_10-10",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-302",
+      "name": "MN Wheels & Motors",
+      "logoUrl": "https://picsum.photos/seed/s302/100/100",
+      "region": "Minnesota",
+      "rating": 4.22,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/t-shirts-10-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/t-shirts-10-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/t-shirts-10-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/t-shirts-10-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 1310,
+      "inquiries": 182,
+      "sales": 89,
+      "flags": 2,
+      "ratings": 4.26,
+      "wishlistCount": 62,
+      "cartAdds": 102
+    },
+    "reviews": {
+      "average": 4.69,
+      "count": 242,
+      "breakdown": {
+        "5": 145,
+        "4": 60,
+        "3": 24,
+        "2": 7,
+        "1": 4
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-09-22",
+      "updatedAt": "2025-09-02",
+      "publishedAt": "2025-09-22",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "8.4 kg",
+      "dimensions": "57x69x38 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Hargeisa",
+      "coordinates": [
+        -78.165341,
+        -36.662407
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Graphic Tee | Fashion Men T-Shirts",
+      "seoDescription": "Buy Graphic Tee in T-Shirts category. Great price & fast delivery.",
+      "searchKeywords": [
+        "t shirts 10",
+        "Fashion",
+        "Men",
+        "T-Shirts"
+      ],
+      "tags": [
+        "T-Shirts",
+        "Fashion",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0011",
+    "slug": "tops-blouses-11",
+    "translations": {
+      "en": {
+        "category": "Fashion / Women / Tops & Blouses",
+        "name": "Chiffon Blouse",
+        "description": "Lightweight chiffon blouse with relaxed fit."
+      },
+      "so": {
+        "category": "Fashion / Haween / Shaarar & Funanado",
+        "name": "Shaar Chiffon",
+        "description": "Blows khafiif ah oo fidsan."
+      },
+      "ar": {
+        "category": "Fashion / نساء / قمصان وبلوزات",
+        "name": "بلوزة شيفون",
+        "description": "بلوزة خفيفة بقصة مريحة."
+      },
+      "fr": {
+        "category": "Fashion / Femmes / Hauts & Blouses",
+        "name": "Blouse en chiffon",
+        "description": "Blouse légère coupe décontractée."
+      },
+      "es": {
+        "category": "Fashion / Mujeres / Tops y blusas",
+        "name": "Blusa de gasa",
+        "description": "Blusa ligera de corte holgado."
+      }
+    },
+    "price": {
+      "amount": 333.45,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 24,
+      "sku": "TOPS_BLOUSES_11-11",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 3.84,
+      "status": "suspended"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/tops-blouses-11-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/tops-blouses-11-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tops-blouses-11-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tops-blouses-11-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 627,
+      "inquiries": 115,
+      "sales": 238,
+      "flags": 5,
+      "ratings": 4.28,
+      "wishlistCount": 65,
+      "cartAdds": 449
+    },
+    "reviews": {
+      "average": 4.74,
+      "count": 564,
+      "breakdown": {
+        "5": 338,
+        "4": 141,
+        "3": 56,
+        "2": 16,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-09-02",
+      "updatedAt": "2025-08-07",
+      "publishedAt": "2025-09-02",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "14.5 kg",
+      "dimensions": "65x74x6 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Nairobi",
+      "coordinates": [
+        -35.257582,
+        -121.691895
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Chiffon Blouse | Fashion Women Tops & Blouses",
+      "seoDescription": "Buy Chiffon Blouse in Tops & Blouses category. Great price & fast delivery.",
+      "searchKeywords": [
+        "tops blouses 11",
+        "Fashion",
+        "Women",
+        "Tops & Blouses"
+      ],
+      "tags": [
+        "Tops & Blouses",
+        "Fashion",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0012",
+    "slug": "girls-clothing-12",
+    "translations": {
+      "en": {
+        "category": "Fashion / Kids / Girls’ Clothing",
+        "name": "Girls Floral Dress",
+        "description": "Cute floral dress for parties."
+      },
+      "so": {
+        "category": "Fashion / Carruur / Dharka Gabdhaha",
+        "name": "Cambuur Ubax Gabadh",
+        "description": "Cambuur qurux badan oo ubax leh."
+      },
+      "ar": {
+        "category": "Fashion / أطفال / ملابس البنات",
+        "name": "فستان مزهر للبنات",
+        "description": "فستان لطيف للمناسبات."
+      },
+      "fr": {
+        "category": "Fashion / Enfants / Vêtements filles",
+        "name": "Robe fleurie fille",
+        "description": "Robe fleurie mignonne pour fêtes."
+      },
+      "es": {
+        "category": "Fashion / Niños / Ropa para niñas",
+        "name": "Vestido floral para niña",
+        "description": "Vestido bonito con flores para fiestas."
+      }
+    },
+    "price": {
+      "amount": 72.3,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 27,
+      "sku": "GIRLS_CLOTHING_1-12",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-301",
+      "name": "Twin Cities Deals",
+      "logoUrl": "https://picsum.photos/seed/s301/100/100",
+      "region": "Minnesota",
+      "rating": 3.95,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/girls-clothing-12-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/girls-clothing-12-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/girls-clothing-12-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/girls-clothing-12-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 15,
+      "promotion": "Flash Sale",
+      "clearance": false,
+      "startDate": "2025-09-15",
+      "endDate": "2025-09-25",
+      "featured": true
+    },
+    "analytics": {
+      "views": 4977,
+      "inquiries": 86,
+      "sales": 288,
+      "flags": 0,
+      "ratings": 4.74,
+      "wishlistCount": 14,
+      "cartAdds": 41
+    },
+    "reviews": {
+      "average": 3.57,
+      "count": 590,
+      "breakdown": {
+        "5": 354,
+        "4": 147,
+        "3": 59,
+        "2": 17,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-09-01"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-14",
+      "updatedAt": "2025-08-30",
+      "publishedAt": "2025-07-14",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "9.35 kg",
+      "dimensions": "13x73x37 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Minneapolis",
+      "coordinates": [
+        -3.069933,
+        109.687736
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Girls Floral Dress | Fashion Kids Girls’ Clothing",
+      "seoDescription": "Buy Girls Floral Dress in Girls’ Clothing category. Great price & fast delivery.",
+      "searchKeywords": [
+        "girls clothing 12",
+        "Fashion",
+        "Kids",
+        "Girls’ Clothing"
+      ],
+      "tags": [
+        "Girls’ Clothing",
+        "Fashion",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0013",
+    "slug": "pants-trousers-13",
+    "translations": {
+      "en": {
+        "category": "Fashion / Men / Pants & Trousers",
+        "name": "Chino Pants",
+        "description": "Slim-fit chinos for casual or office wear."
+      },
+      "so": {
+        "category": "Fashion / Rag / Surweel",
+        "name": "Surweel Chino",
+        "description": "Surweel aad u hagaagsan oo casri ah."
+      },
+      "ar": {
+        "category": "Fashion / رجال / بناطيل",
+        "name": "بنطال تشينو",
+        "description": "بنطال بقصة ضيقة للاستخدام اليومي أو العمل."
+      },
+      "fr": {
+        "category": "Fashion / Hommes / Pantalons",
+        "name": "Pantalon chino",
+        "description": "Pantalon chino ajusté."
+      },
+      "es": {
+        "category": "Fashion / Hombres / Pantalones",
+        "name": "Pantalón chino",
+        "description": "Pantalón chino de corte slim."
+      }
+    },
+    "price": {
+      "amount": 57.33,
+      "currency": "USD",
+      "originalPrice": 128.87
+    },
+    "inventory": {
+      "quantity": 22,
+      "sku": "PANTS_TROUSERS_1-13",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 4.42,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/pants-trousers-13-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/pants-trousers-13-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/pants-trousers-13-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/pants-trousers-13-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 2806,
+      "inquiries": 155,
+      "sales": 73,
+      "flags": 2,
+      "ratings": 4.79,
+      "wishlistCount": 163,
+      "cartAdds": 375
+    },
+    "reviews": {
+      "average": 4.98,
+      "count": 353,
+      "breakdown": {
+        "5": 211,
+        "4": 88,
+        "3": 35,
+        "2": 10,
+        "1": 7
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": "Misclassified",
+        "timestamp": "2025-09-09"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-16",
+      "updatedAt": "2025-09-19",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "4.92 kg",
+      "dimensions": "69x25x20 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Nairobi",
+      "coordinates": [
+        -72.573903,
+        -75.523678
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Chino Pants | Fashion Men Pants & Trousers",
+      "seoDescription": "Buy Chino Pants in Pants & Trousers category. Great price & fast delivery.",
+      "searchKeywords": [
+        "pants trousers 13",
+        "Fashion",
+        "Men",
+        "Pants & Trousers"
+      ],
+      "tags": [
+        "Pants & Trousers",
+        "Fashion",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0014",
+    "slug": "sweaters-cardigans-14",
+    "translations": {
+      "en": {
+        "category": "Fashion / Women / Sweaters & Cardigans",
+        "name": "Wool Cardigan",
+        "description": "Warm wool cardigan for layering."
+      },
+      "so": {
+        "category": "Fashion / Haween / Funanad Dhaxamed",
+        "name": "Funanad Dhaxamed Xool",
+        "description": "Funanad dhaxan celin ah oo diiran."
+      },
+      "ar": {
+        "category": "Fashion / نساء / سترات وكارديغان",
+        "name": "كارديغان صوفي",
+        "description": "كارديغان دافئ للطبقات."
+      },
+      "fr": {
+        "category": "Fashion / Femmes / Pulls & Cardigans",
+        "name": "Cardigan en laine",
+        "description": "Cardigan chaud en laine."
+      },
+      "es": {
+        "category": "Fashion / Mujeres / Suéteres y cárdigans",
+        "name": "Cárdigan de lana",
+        "description": "Cárdigan cálido de lana."
+      }
+    },
+    "price": {
+      "amount": 693.59,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 30,
+      "sku": "SWEATERS_CARDIGA-14",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 3.7,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/sweaters-cardigans-14-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/sweaters-cardigans-14-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sweaters-cardigans-14-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sweaters-cardigans-14-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 2581,
+      "inquiries": 48,
+      "sales": 81,
+      "flags": 3,
+      "ratings": 4.99,
+      "wishlistCount": 239,
+      "cartAdds": 255
+    },
+    "reviews": {
+      "average": 4.82,
+      "count": 509,
+      "breakdown": {
+        "5": 305,
+        "4": 127,
+        "3": 50,
+        "2": 15,
+        "1": 10
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": null,
+        "timestamp": "2025-09-09"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-29",
+      "updatedAt": "2025-09-10",
+      "publishedAt": "2025-07-29",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "3.38 kg",
+      "dimensions": "55x16x6 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Ottawa",
+      "coordinates": [
+        -38.565291,
+        -177.056134
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Wool Cardigan | Fashion Women Sweaters & Cardigans",
+      "seoDescription": "Buy Wool Cardigan in Sweaters & Cardigans category. Great price & fast delivery.",
+      "searchKeywords": [
+        "sweaters cardigans 14",
+        "Fashion",
+        "Women",
+        "Sweaters & Cardigans"
+      ],
+      "tags": [
+        "Sweaters & Cardigans",
+        "Fashion",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0015",
+    "slug": "kids-shoes-15",
+    "translations": {
+      "en": {
+        "category": "Fashion / Kids / Kids’ Shoes",
+        "name": "Kids Sneakers",
+        "description": "Durable sneakers for active kids."
+      },
+      "so": {
+        "category": "Fashion / Carruur / Kabaha Carruurta",
+        "name": "Kabo Carruurta",
+        "description": "Kabo adkaysi leh oo carruur firfircoon."
+      },
+      "ar": {
+        "category": "Fashion / أطفال / أحذية الأطفال",
+        "name": "أحذية رياضية للأطفال",
+        "description": "حذاء متين للأطفال النشطين."
+      },
+      "fr": {
+        "category": "Fashion / Enfants / Chaussures enfants",
+        "name": "Baskets enfants",
+        "description": "Baskets durables pour enfants actifs."
+      },
+      "es": {
+        "category": "Fashion / Niños / Zapatos para niños",
+        "name": "Zapatillas para niños",
+        "description": "Zapatillas duraderas para niños activos."
+      }
+    },
+    "price": {
+      "amount": 298.96,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 23,
+      "sku": "KIDS_SHOES_15-15",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-301",
+      "name": "Twin Cities Deals",
+      "logoUrl": "https://picsum.photos/seed/s301/100/100",
+      "region": "Minnesota",
+      "rating": 4.0,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/kids-shoes-15-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/kids-shoes-15-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/kids-shoes-15-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/kids-shoes-15-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 4691,
+      "inquiries": 143,
+      "sales": 99,
+      "flags": 2,
+      "ratings": 4.33,
+      "wishlistCount": 37,
+      "cartAdds": 197
+    },
+    "reviews": {
+      "average": 4.26,
+      "count": 563,
+      "breakdown": {
+        "5": 337,
+        "4": 140,
+        "3": 56,
+        "2": 16,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-kenya",
+        "reason": null,
+        "timestamp": "2025-09-21"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-13",
+      "updatedAt": "2025-08-31",
+      "publishedAt": "2025-09-13",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "5.72 kg",
+      "dimensions": "53x56x12 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Toronto",
+      "coordinates": [
+        0.014023,
+        -163.690793
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Kids Sneakers | Fashion Kids Kids’ Shoes",
+      "seoDescription": "Buy Kids Sneakers in Kids’ Shoes category. Great price & fast delivery.",
+      "searchKeywords": [
+        "kids shoes 15",
+        "Fashion",
+        "Kids",
+        "Kids’ Shoes"
+      ],
+      "tags": [
+        "Kids’ Shoes",
+        "Fashion",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0016",
+    "slug": "smartphones-16",
+    "translations": {
+      "en": {
+        "category": "Electronics / Phones / Smartphones",
+        "name": "Pro Smartphone 256GB",
+        "description": "High-performance smartphone with advanced camera."
+      },
+      "so": {
+        "category": "Electronics / Phones / Smartphones",
+        "name": "Taleefoon Casri 256GB",
+        "description": "Taleefoon awood leh oo leh kamarad heer sare ah."
+      },
+      "ar": {
+        "category": "الإلكترونيات / هواتف / هواتف ذكية",
+        "name": "هاتف ذكي برو 256GB",
+        "description": "هاتف عالي الأداء بكاميرا متقدمة."
+      },
+      "fr": {
+        "category": "Électronique / Téléphones / Smartphones",
+        "name": "Smartphone Pro 256 Go",
+        "description": "Smartphone haute performance avec caméra avancée."
+      },
+      "es": {
+        "category": "Electrónica / Teléfonos / Smartphones",
+        "name": "Smartphone Pro 256 GB",
+        "description": "Smartphone de alto rendimiento con cámara avanzada."
+      }
+    },
+    "price": {
+      "amount": 371.02,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 16,
+      "sku": "SMARTPHONES_16-16",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-402",
+      "name": "Ottawa Estates",
+      "logoUrl": "https://picsum.photos/seed/s402/100/100",
+      "region": "Canada",
+      "rating": 4.44,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/smartphones-16-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/smartphones-16-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/smartphones-16-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/smartphones-16-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 25,
+      "promotion": "Holiday Deal",
+      "clearance": true,
+      "startDate": "2025-08-17",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 4175,
+      "inquiries": 130,
+      "sales": 272,
+      "flags": 3,
+      "ratings": 4.56,
+      "wishlistCount": 153,
+      "cartAdds": 243
+    },
+    "reviews": {
+      "average": 4.72,
+      "count": 377,
+      "breakdown": {
+        "5": 226,
+        "4": 94,
+        "3": 37,
+        "2": 11,
+        "1": 7
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-kenya",
+        "reason": null,
+        "timestamp": "2025-09-12"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-13",
+      "updatedAt": "2025-09-06",
+      "publishedAt": "2025-07-13",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "11.99 kg",
+      "dimensions": "13x70x19 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Mombasa",
+      "coordinates": [
+        39.85202,
+        30.06838
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Pro Smartphone 256GB | Electronics Phones Smartphones",
+      "seoDescription": "Buy Pro Smartphone 256GB in Smartphones category. Great price & fast delivery.",
+      "searchKeywords": [
+        "smartphones 16",
+        "Electronics",
+        "Phones",
+        "Smartphones"
+      ],
+      "tags": [
+        "Smartphones",
+        "Electronics",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0017",
+    "slug": "laptops-17",
+    "translations": {
+      "en": {
+        "category": "Electronics / Computers / Laptops",
+        "name": "Ultrabook 14-inch",
+        "description": "Lightweight laptop ideal for work and travel."
+      },
+      "so": {
+        "category": "Electronics / Computers / Laptops",
+        "name": "Kombiyuutar Khafiif 14-inch",
+        "description": "Kombiyuutar khafiif ah oo ku habboon shaqo iyo safar."
+      },
+      "ar": {
+        "category": "الإلكترونيات / حواسيب / حاسبات محمولة",
+        "name": "ألترابوك 14 بوصة",
+        "description": "حاسوب خفيف مثالي للعمل والسفر."
+      },
+      "fr": {
+        "category": "Électronique / Ordinateurs / Ordinateurs portables",
+        "name": "Ultrabook 14 pouces",
+        "description": "Ordinateur portable léger, idéal pour le travail et le voyage."
+      },
+      "es": {
+        "category": "Electrónica / Computadoras / Laptops",
+        "name": "Ultrabook 14 pulgadas",
+        "description": "Portátil ligero ideal para trabajo y viaje."
+      }
+    },
+    "price": {
+      "amount": 659.11,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 4,
+      "sku": "LAPTOPS_17-17",
+      "stockStatus": "low"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.34,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/laptops-17-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/laptops-17-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/laptops-17-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/laptops-17-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 20,
+      "promotion": "Holiday Deal",
+      "clearance": false,
+      "startDate": "2025-08-30",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 3883,
+      "inquiries": 188,
+      "sales": 31,
+      "flags": 5,
+      "ratings": 3.71,
+      "wishlistCount": 106,
+      "cartAdds": 287
+    },
+    "reviews": {
+      "average": 3.99,
+      "count": 489,
+      "breakdown": {
+        "5": 293,
+        "4": 122,
+        "3": 48,
+        "2": 14,
+        "1": 9
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-08-26"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-03",
+      "updatedAt": "2025-08-27",
+      "publishedAt": "2025-09-03",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "13.7 kg",
+      "dimensions": "53x79x25 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Minneapolis",
+      "coordinates": [
+        19.813784,
+        -110.784899
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Ultrabook 14-inch | Electronics Computers Laptops",
+      "seoDescription": "Buy Ultrabook 14-inch in Laptops category. Great price & fast delivery.",
+      "searchKeywords": [
+        "laptops 17",
+        "Electronics",
+        "Computers",
+        "Laptops"
+      ],
+      "tags": [
+        "Laptops",
+        "Electronics",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0018",
+    "slug": "tvs-18",
+    "translations": {
+      "en": {
+        "category": "Electronics / TVs",
+        "name": "4K Smart TV 55",
+        "description": "Crisp 4K UHD with smart apps built-in."
+      },
+      "so": {
+        "category": "Electronics / TVs",
+        "name": "TV 4K 55",
+        "description": "4K tayo leh oo leh app-yo caqli badan."
+      },
+      "ar": {
+        "category": "الإلكترونيات / تلفزيونات",
+        "name": "تلفاز ذكي 4K 55",
+        "description": "دقة 4K مع تطبيقات ذكية مدمجة."
+      },
+      "fr": {
+        "category": "Électronique / Télévisions",
+        "name": "TV 4K 55\"",
+        "description": "UHD 4K net avec apps intégrées."
+      },
+      "es": {
+        "category": "Electrónica / Televisores",
+        "name": "TV 4K 55\"",
+        "description": "UHD 4K nítida con apps inteligentes."
+      }
+    },
+    "price": {
+      "amount": 778.6,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 30,
+      "sku": "TVS_18-18",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 4.22,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/tvs-18-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/tvs-18-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tvs-18-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tvs-18-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 4025,
+      "inquiries": 81,
+      "sales": 245,
+      "flags": 2,
+      "ratings": 4.34,
+      "wishlistCount": 369,
+      "cartAdds": 140
+    },
+    "reviews": {
+      "average": 3.93,
+      "count": 587,
+      "breakdown": {
+        "5": 352,
+        "4": 146,
+        "3": 58,
+        "2": 17,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-08-08",
+      "updatedAt": "2025-07-30",
+      "publishedAt": "2025-08-08",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "14.71 kg",
+      "dimensions": "54x28x21 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Hargeisa",
+      "coordinates": [
+        -27.654567,
+        -20.7446
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "4K Smart TV 55 | Electronics TVs",
+      "seoDescription": "Buy 4K Smart TV 55 in TVs category. Great price & fast delivery.",
+      "searchKeywords": [
+        "tvs 18",
+        "Electronics",
+        "TVs"
+      ],
+      "tags": [
+        "TVs",
+        "Electronics",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0019",
+    "slug": "headphones-19",
+    "translations": {
+      "en": {
+        "category": "Electronics / Audio / Headphones",
+        "name": "Wireless Noise-Canceling Headphones",
+        "description": "Comfortable over-ear headphones with ANC."
+      },
+      "so": {
+        "category": "Electronics / Audio / Headphones",
+        "name": "Dhagaha La Saaro Wireless",
+        "description": "Dhagaha raaxo leh oo leh ANC."
+      },
+      "ar": {
+        "category": "الإلكترونيات / صوتيات / سماعات رأس",
+        "name": "سماعات لاسلكية مع عزل الضوضاء",
+        "description": "سماعات مريحة فوق الأذن مع عزل ضوضاء."
+      },
+      "fr": {
+        "category": "Électronique / Audio / Casques",
+        "name": "Casque sans fil à réduction de bruit",
+        "description": "Casque circum-aural confortable avec ANC."
+      },
+      "es": {
+        "category": "Electrónica / Audio / Auriculares",
+        "name": "Auriculares inalámbricos con cancelación de ruido",
+        "description": "Auriculares cómodos con ANC."
+      }
+    },
+    "price": {
+      "amount": 435.48,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 26,
+      "sku": "HEADPHONES_19-19",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 4.3,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/headphones-19-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/headphones-19-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/headphones-19-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/headphones-19-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 25,
+      "promotion": "Clearance",
+      "clearance": false,
+      "startDate": "2025-08-23",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 450,
+      "inquiries": 25,
+      "sales": 211,
+      "flags": 2,
+      "ratings": 4.58,
+      "wishlistCount": 51,
+      "cartAdds": 348
+    },
+    "reviews": {
+      "average": 4.66,
+      "count": 5,
+      "breakdown": {
+        "5": 3,
+        "4": 1,
+        "3": 0,
+        "2": 0,
+        "1": 0
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": "Misclassified",
+        "timestamp": "2025-09-05"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-05-29",
+      "updatedAt": "2025-07-31",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "13.2 kg",
+      "dimensions": "71x35x21 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Mogadishu",
+      "coordinates": [
+        73.428653,
+        -147.794141
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Wireless Noise-Canceling Headphones | Electronics Audio Headphones",
+      "seoDescription": "Buy Wireless Noise-Canceling Headphones in Headphones category. Great price & fast delivery.",
+      "searchKeywords": [
+        "headphones 19",
+        "Electronics",
+        "Audio",
+        "Headphones"
+      ],
+      "tags": [
+        "Headphones",
+        "Electronics",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0020",
+    "slug": "tablets-20",
+    "translations": {
+      "en": {
+        "category": "Electronics / Computers / Tablets",
+        "name": "10-inch Tablet",
+        "description": "Portable tablet for study and entertainment."
+      },
+      "so": {
+        "category": "Electronics / Computers / Tablets",
+        "name": "Kiniin 10-inch",
+        "description": "Kiniin fudud oo waxbarasho iyo madadaalo."
+      },
+      "ar": {
+        "category": "الإلكترونيات / حواسيب / أجهزة لوحية",
+        "name": "جهاز لوحي 10 بوصة",
+        "description": "جهاز محمول للدراسة والترفيه."
+      },
+      "fr": {
+        "category": "Électronique / Ordinateurs / Tablettes",
+        "name": "Tablette 10 pouces",
+        "description": "Tablette portable pour études et loisirs."
+      },
+      "es": {
+        "category": "Electrónica / Computadoras / Tabletas",
+        "name": "Tableta 10 pulgadas",
+        "description": "Tableta portátil para estudio y ocio."
+      }
+    },
+    "price": {
+      "amount": 737.96,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 29,
+      "sku": "TABLETS_20-20",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-101",
+      "name": "Mogadishu Boutique",
+      "logoUrl": "https://picsum.photos/seed/s101/100/100",
+      "region": "Somalia",
+      "rating": 4.6,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/tablets-20-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/tablets-20-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tablets-20-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tablets-20-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 317,
+      "inquiries": 101,
+      "sales": 253,
+      "flags": 1,
+      "ratings": 4.9,
+      "wishlistCount": 148,
+      "cartAdds": 448
+    },
+    "reviews": {
+      "average": 3.56,
+      "count": 305,
+      "breakdown": {
+        "5": 183,
+        "4": 76,
+        "3": 30,
+        "2": 9,
+        "1": 6
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-kenya",
+        "reason": null,
+        "timestamp": "2025-08-27"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-08-14",
+      "updatedAt": "2025-09-07",
+      "publishedAt": "2025-08-14",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "6.92 kg",
+      "dimensions": "79x77x34 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Ottawa",
+      "coordinates": [
+        -40.889325,
+        111.172996
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "10-inch Tablet | Electronics Computers Tablets",
+      "seoDescription": "Buy 10-inch Tablet in Tablets category. Great price & fast delivery.",
+      "searchKeywords": [
+        "tablets 20",
+        "Electronics",
+        "Computers",
+        "Tablets"
+      ],
+      "tags": [
+        "Tablets",
+        "Electronics",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0021",
+    "slug": "accessories-21",
+    "translations": {
+      "en": {
+        "category": "Electronics / Phones / Accessories",
+        "name": "Fast Charger 65W",
+        "description": "Fast charging adapter with USB-C."
+      },
+      "so": {
+        "category": "Electronics / Phones / Accessories",
+        "name": "Charger Degdeg 65W",
+        "description": "Adaptor degdeg ah USB-C."
+      },
+      "ar": {
+        "category": "الإلكترونيات / هواتف / ملحقات",
+        "name": "شاحن سريع 65 واط",
+        "description": "شاحن سريع بمنفذ USB-C."
+      },
+      "fr": {
+        "category": "Électronique / Téléphones / Accessoires",
+        "name": "Chargeur rapide 65W",
+        "description": "Adaptateur de charge rapide USB-C."
+      },
+      "es": {
+        "category": "Electrónica / Teléfonos / Accesorios",
+        "name": "Cargador rápido 65W",
+        "description": "Cargador rápido con USB-C."
+      }
+    },
+    "price": {
+      "amount": 157.1,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 22,
+      "sku": "ACCESSORIES_21-21",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-301",
+      "name": "Twin Cities Deals",
+      "logoUrl": "https://picsum.photos/seed/s301/100/100",
+      "region": "Minnesota",
+      "rating": 4.5,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/accessories-21-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/accessories-21-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/accessories-21-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/accessories-21-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 1602,
+      "inquiries": 44,
+      "sales": 207,
+      "flags": 3,
+      "ratings": 4.27,
+      "wishlistCount": 44,
+      "cartAdds": 205
+    },
+    "reviews": {
+      "average": 4.5,
+      "count": 189,
+      "breakdown": {
+        "5": 113,
+        "4": 47,
+        "3": 18,
+        "2": 5,
+        "1": 3
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": "Misclassified",
+        "timestamp": "2025-08-27"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-08-25",
+      "updatedAt": "2025-09-25",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "4.06 kg",
+      "dimensions": "40x67x20 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Mogadishu",
+      "coordinates": [
+        -42.920433,
+        -50.561247
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Fast Charger 65W | Electronics Phones Accessories",
+      "seoDescription": "Buy Fast Charger 65W in Accessories category. Great price & fast delivery.",
+      "searchKeywords": [
+        "accessories 21",
+        "Electronics",
+        "Phones",
+        "Accessories"
+      ],
+      "tags": [
+        "Accessories",
+        "Electronics",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0022",
+    "slug": "accessories-22",
+    "translations": {
+      "en": {
+        "category": "Electronics / Computers / Accessories",
+        "name": "Mechanical Keyboard",
+        "description": "Tactile mechanical keys ideal for typing and gaming."
+      },
+      "so": {
+        "category": "Electronics / Computers / Accessories",
+        "name": "Kiiboodh Farsamo",
+        "description": "Fureyaal dareen leh oo ku habboon qorista iyo ciyaarta."
+      },
+      "ar": {
+        "category": "الإلكترونيات / حواسيب / ملحقات",
+        "name": "لوحة مفاتيح ميكانيكية",
+        "description": "أزرار ميكانيكية لمسية مثالية للكتابة والألعاب."
+      },
+      "fr": {
+        "category": "Électronique / Ordinateurs / Accessoires",
+        "name": "Clavier mécanique",
+        "description": "Touches mécaniques tactiles."
+      },
+      "es": {
+        "category": "Electrónica / Computadoras / Accesorios",
+        "name": "Teclado mecánico",
+        "description": "Teclas mecánicas táctiles."
+      }
+    },
+    "price": {
+      "amount": 136.18,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 9,
+      "sku": "ACCESSORIES_22-22",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-402",
+      "name": "Ottawa Estates",
+      "logoUrl": "https://picsum.photos/seed/s402/100/100",
+      "region": "Canada",
+      "rating": 4.32,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/accessories-22-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/accessories-22-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/accessories-22-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/accessories-22-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 2436,
+      "inquiries": 94,
+      "sales": 113,
+      "flags": 1,
+      "ratings": 4.94,
+      "wishlistCount": 244,
+      "cartAdds": 78
+    },
+    "reviews": {
+      "average": 4.18,
+      "count": 382,
+      "breakdown": {
+        "5": 229,
+        "4": 95,
+        "3": 38,
+        "2": 11,
+        "1": 7
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": null,
+        "timestamp": "2025-09-01"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-19",
+      "updatedAt": "2025-08-05",
+      "publishedAt": "2025-07-19",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "10.03 kg",
+      "dimensions": "37x41x8 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Saint Paul",
+      "coordinates": [
+        -75.94151,
+        23.10074
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Mechanical Keyboard | Electronics Computers Accessories",
+      "seoDescription": "Buy Mechanical Keyboard in Accessories category. Great price & fast delivery.",
+      "searchKeywords": [
+        "accessories 22",
+        "Electronics",
+        "Computers",
+        "Accessories"
+      ],
+      "tags": [
+        "Accessories",
+        "Electronics",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0023",
+    "slug": "speakers-23",
+    "translations": {
+      "en": {
+        "category": "Electronics / Audio / Speakers",
+        "name": "Bluetooth Speaker",
+        "description": "Portable speaker with deep bass."
+      },
+      "so": {
+        "category": "Electronics / Audio / Speakers",
+        "name": "Afhayeen Bluetooth",
+        "description": "Afhayeen la qaadan karo oo bass qoto dheer leh."
+      },
+      "ar": {
+        "category": "الإلكترونيات / صوتيات / مكبرات صوت",
+        "name": "مكبر صوت بلوتوث",
+        "description": "مكبر صوت محمول بجهير عميق."
+      },
+      "fr": {
+        "category": "Électronique / Audio / Enceintes",
+        "name": "Enceinte Bluetooth",
+        "description": "Enceinte portable avec basses puissantes."
+      },
+      "es": {
+        "category": "Electrónica / Audio / Bocinas",
+        "name": "Bocina Bluetooth",
+        "description": "Altavoz portátil con graves profundos."
+      }
+    },
+    "price": {
+      "amount": 433.96,
+      "currency": "USD",
+      "originalPrice": 467.0
+    },
+    "inventory": {
+      "quantity": 18,
+      "sku": "SPEAKERS_23-23",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 4.98,
+      "status": "suspended"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/speakers-23-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/speakers-23-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/speakers-23-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/speakers-23-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 10,
+      "promotion": "Weekend Offer",
+      "clearance": true,
+      "startDate": "2025-08-24",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 3734,
+      "inquiries": 33,
+      "sales": 262,
+      "flags": 3,
+      "ratings": 4.19,
+      "wishlistCount": 29,
+      "cartAdds": 286
+    },
+    "reviews": {
+      "average": 4.19,
+      "count": 315,
+      "breakdown": {
+        "5": 189,
+        "4": 78,
+        "3": 31,
+        "2": 9,
+        "1": 6
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-08-06",
+      "updatedAt": "2025-09-09",
+      "publishedAt": "2025-08-06",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "12.28 kg",
+      "dimensions": "37x19x5 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Hargeisa",
+      "coordinates": [
+        7.409431,
+        -158.307973
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Bluetooth Speaker | Electronics Audio Speakers",
+      "seoDescription": "Buy Bluetooth Speaker in Speakers category. Great price & fast delivery.",
+      "searchKeywords": [
+        "speakers 23",
+        "Electronics",
+        "Audio",
+        "Speakers"
+      ],
+      "tags": [
+        "Speakers",
+        "Electronics",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0024",
+    "slug": "feature-phones-24",
+    "translations": {
+      "en": {
+        "category": "Electronics / Phones / Feature Phones",
+        "name": "Basic Feature Phone",
+        "description": "Durable phone with long battery life."
+      },
+      "so": {
+        "category": "Electronics / Phones / Feature Phones",
+        "name": "Mobile Fudud",
+        "description": "Taleefoon adkeysi leh oo batari dheer."
+      },
+      "ar": {
+        "category": "الإلكترونيات / هواتف / هواتف بسيطة",
+        "name": "هاتف بسيط",
+        "description": "هاتف متين بعمر بطارية طويل."
+      },
+      "fr": {
+        "category": "Électronique / Téléphones / Téléphones classiques",
+        "name": "Téléphone classique",
+        "description": "Téléphone durable, grande autonomie."
+      },
+      "es": {
+        "category": "Electrónica / Teléfonos / Teléfonos básicos",
+        "name": "Teléfono básico",
+        "description": "Teléfono duradero con batería de larga duración."
+      }
+    },
+    "price": {
+      "amount": 236.8,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 1,
+      "sku": "FEATURE_PHONES_2-24",
+      "stockStatus": "low"
+    },
+    "seller": {
+      "id": "s-402",
+      "name": "Ottawa Estates",
+      "logoUrl": "https://picsum.photos/seed/s402/100/100",
+      "region": "Canada",
+      "rating": 4.74,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/feature-phones-24-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/feature-phones-24-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/feature-phones-24-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/feature-phones-24-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 3463,
+      "inquiries": 95,
+      "sales": 195,
+      "flags": 3,
+      "ratings": 4.8,
+      "wishlistCount": 193,
+      "cartAdds": 192
+    },
+    "reviews": {
+      "average": 3.62,
+      "count": 552,
+      "breakdown": {
+        "5": 331,
+        "4": 138,
+        "3": 55,
+        "2": 16,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-22"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-03",
+      "updatedAt": "2025-08-22",
+      "publishedAt": "2025-09-03",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "6.02 kg",
+      "dimensions": "26x38x3 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Ottawa",
+      "coordinates": [
+        31.229974,
+        16.000322
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Basic Feature Phone | Electronics Phones Feature Phones",
+      "seoDescription": "Buy Basic Feature Phone in Feature Phones category. Great price & fast delivery.",
+      "searchKeywords": [
+        "feature phones 24",
+        "Electronics",
+        "Phones",
+        "Feature Phones"
+      ],
+      "tags": [
+        "Feature Phones",
+        "Electronics",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0025",
+    "slug": "tvs-25",
+    "translations": {
+      "en": {
+        "category": "Electronics / TVs",
+        "name": "32-inch HD TV",
+        "description": "Compact HD TV suitable for bedrooms."
+      },
+      "so": {
+        "category": "Electronics / TVs",
+        "name": "TV 32 HD",
+        "description": "TV yar oo ku habboon qolalka jiifka."
+      },
+      "ar": {
+        "category": "الإلكترونيات / تلفزيونات",
+        "name": "تلفاز HD 32",
+        "description": "تلفاز مدمج مناسب لغرف النوم."
+      },
+      "fr": {
+        "category": "Électronique / Télévisions",
+        "name": "TV HD 32\"",
+        "description": "TV HD compact pour chambres."
+      },
+      "es": {
+        "category": "Electrónica / Televisores",
+        "name": "TV HD 32\"",
+        "description": "TV HD compacto para dormitorios."
+      }
+    },
+    "price": {
+      "amount": 283.47,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 14,
+      "sku": "TVS_25-25",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 4.28,
+      "status": "banned"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/tvs-25-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/tvs-25-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tvs-25-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tvs-25-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 20,
+      "promotion": "Flash Sale",
+      "clearance": false,
+      "startDate": "2025-09-21",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 3677,
+      "inquiries": 153,
+      "sales": 24,
+      "flags": 1,
+      "ratings": 4.61,
+      "wishlistCount": 205,
+      "cartAdds": 224
+    },
+    "reviews": {
+      "average": 3.85,
+      "count": 222,
+      "breakdown": {
+        "5": 133,
+        "4": 55,
+        "3": 22,
+        "2": 6,
+        "1": 4
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-06-18",
+      "updatedAt": "2025-09-22",
+      "publishedAt": "2025-06-18",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "2.27 kg",
+      "dimensions": "47x39x39 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Saint Paul",
+      "coordinates": [
+        -47.357274,
+        135.452996
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "32-inch HD TV | Electronics TVs",
+      "seoDescription": "Buy 32-inch HD TV in TVs category. Great price & fast delivery.",
+      "searchKeywords": [
+        "tvs 25",
+        "Electronics",
+        "TVs"
+      ],
+      "tags": [
+        "TVs",
+        "Electronics",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0026",
+    "slug": "sedans-26",
+    "translations": {
+      "en": {
+        "category": "Automotive / Cars / Sedans",
+        "name": "Toyota Corolla 2020",
+        "description": "Reliable sedan with low mileage and service history."
+      },
+      "so": {
+        "category": "Gawaari / Gawaari / Sedans",
+        "name": "Toyota Corolla 2020",
+        "description": "Gaari sedan ah oo kalsooni leh, masaafad yar."
+      },
+      "ar": {
+        "category": "سيارات / سيارات / سيدان",
+        "name": "تويوتا كورولا 2020",
+        "description": "سيدان موثوق بقِطع قليلة وسجل صيانة."
+      },
+      "fr": {
+        "category": "Automobile / Voitures / Berlines",
+        "name": "Toyota Corolla 2020",
+        "description": "Berline fiable avec faible kilométrage."
+      },
+      "es": {
+        "category": "Automotriz / Autos / Sedanes",
+        "name": "Toyota Corolla 2020",
+        "description": "Sedán fiable con poco kilometraje."
+      }
+    },
+    "price": {
+      "amount": 227.37,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 9,
+      "sku": "SEDANS_26-26",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.95,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/sedans-26-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-26-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-26-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-26-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 3519,
+      "inquiries": 142,
+      "sales": 253,
+      "flags": 0,
+      "ratings": 4.96,
+      "wishlistCount": 329,
+      "cartAdds": 343
+    },
+    "reviews": {
+      "average": 4.07,
+      "count": 537,
+      "breakdown": {
+        "5": 322,
+        "4": 134,
+        "3": 53,
+        "2": 16,
+        "1": 10
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": null,
+        "timestamp": "2025-09-12"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-06",
+      "updatedAt": "2025-09-06",
+      "publishedAt": "2025-09-06",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "5.77 kg",
+      "dimensions": "78x70x18 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Nairobi",
+      "coordinates": [
+        55.039709,
+        149.306823
+      ]
+    },
+    "attributes": {
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "mileage": "25,000 miles",
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "color": "White"
+    },
+    "seo": {
+      "seoTitle": "Toyota Corolla 2020 | Automotive Cars Sedans",
+      "seoDescription": "Buy Toyota Corolla 2020 in Sedans category. Great price & fast delivery.",
+      "searchKeywords": [
+        "sedans 26",
+        "Automotive",
+        "Cars",
+        "Sedans"
+      ],
+      "tags": [
+        "Sedans",
+        "Automotive",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0027",
+    "slug": "suvs-27",
+    "translations": {
+      "en": {
+        "category": "Automotive / Cars / SUVs",
+        "name": "Land Cruiser V8 2018",
+        "description": "Powerful SUV ideal for off-road and family trips."
+      },
+      "so": {
+        "category": "Gawaari / Gawaari / SUVs",
+        "name": "Land Cruiser V8 2018",
+        "description": "SUV awood leh oo qoyska iyo bannaanka ku habboon."
+      },
+      "ar": {
+        "category": "سيارات / سيارات / دفع رباعي",
+        "name": "لاند كروزر V8 2018",
+        "description": "سيارة SUV قوية مثالية للطرق الوعرة والرحلات."
+      },
+      "fr": {
+        "category": "Automobile / Voitures / SUV",
+        "name": "Land Cruiser V8 2018",
+        "description": "SUV puissant pour tout-terrain."
+      },
+      "es": {
+        "category": "Automotriz / Autos / SUV",
+        "name": "Land Cruiser V8 2018",
+        "description": "SUV potente ideal para off-road."
+      }
+    },
+    "price": {
+      "amount": 201.86,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 12,
+      "sku": "SUVS_27-27",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-201",
+      "name": "Nairobi AutoMall",
+      "logoUrl": "https://picsum.photos/seed/s201/100/100",
+      "region": "Kenya",
+      "rating": 4.62,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/suvs-27-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/suvs-27-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/suvs-27-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/suvs-27-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 3059,
+      "inquiries": 23,
+      "sales": 274,
+      "flags": 5,
+      "ratings": 4.74,
+      "wishlistCount": 26,
+      "cartAdds": 137
+    },
+    "reviews": {
+      "average": 4.07,
+      "count": 40,
+      "breakdown": {
+        "5": 24,
+        "4": 10,
+        "3": 4,
+        "2": 1,
+        "1": 0
+      }
+    },
+    "workflow": {
+      "status": "draft",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-09-01",
+      "updatedAt": "2025-08-05",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "11.47 kg",
+      "dimensions": "37x71x16 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Mogadishu",
+      "coordinates": [
+        -51.874601,
+        -111.591469
+      ]
+    },
+    "attributes": {
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": 2018,
+      "mileage": "72,000 km",
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "color": "Black"
+    },
+    "seo": {
+      "seoTitle": "Land Cruiser V8 2018 | Automotive Cars SUVs",
+      "seoDescription": "Buy Land Cruiser V8 2018 in SUVs category. Great price & fast delivery.",
+      "searchKeywords": [
+        "suvs 27",
+        "Automotive",
+        "Cars",
+        "SUVs"
+      ],
+      "tags": [
+        "SUVs",
+        "Automotive",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0028",
+    "slug": "sedans-28",
+    "translations": {
+      "en": {
+        "category": "Automotive / Cars / Sedans",
+        "name": "Honda Civic 2019",
+        "description": "Sporty sedan, fuel efficient, great for city driving."
+      },
+      "so": {
+        "category": "Gawaari / Gawaari / Sedans",
+        "name": "Honda Civic 2019",
+        "description": "Sedan isboorti ah oo shidaal yar cuna."
+      },
+      "ar": {
+        "category": "سيارات / سيارات / سيدان",
+        "name": "هوندا سيفيك 2019",
+        "description": "سيدان رياضية اقتصادية بالوقود."
+      },
+      "fr": {
+        "category": "Automobile / Voitures / Berlines",
+        "name": "Honda Civic 2019",
+        "description": "Berline sportive et économe."
+      },
+      "es": {
+        "category": "Automotriz / Autos / Sedanes",
+        "name": "Honda Civic 2019",
+        "description": "Sedán deportivo y eficiente."
+      }
+    },
+    "price": {
+      "amount": 201.65,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 29,
+      "sku": "SEDANS_28-28",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-402",
+      "name": "Ottawa Estates",
+      "logoUrl": "https://picsum.photos/seed/s402/100/100",
+      "region": "Canada",
+      "rating": 3.52,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/sedans-28-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-28-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-28-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-28-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 1980,
+      "inquiries": 141,
+      "sales": 164,
+      "flags": 2,
+      "ratings": 4.07,
+      "wishlistCount": 273,
+      "cartAdds": 332
+    },
+    "reviews": {
+      "average": 4.04,
+      "count": 267,
+      "breakdown": {
+        "5": 160,
+        "4": 66,
+        "3": 26,
+        "2": 8,
+        "1": 5
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": null,
+        "timestamp": "2025-09-11"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-13",
+      "updatedAt": "2025-08-05",
+      "publishedAt": "2025-09-13",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "14.72 kg",
+      "dimensions": "70x50x16 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Toronto",
+      "coordinates": [
+        -81.771219,
+        131.070543
+      ]
+    },
+    "attributes": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "mileage": "45,000 miles",
+      "fuelType": "Gasoline",
+      "transmission": "CVT",
+      "color": "Blue"
+    },
+    "seo": {
+      "seoTitle": "Honda Civic 2019 | Automotive Cars Sedans",
+      "seoDescription": "Buy Honda Civic 2019 in Sedans category. Great price & fast delivery.",
+      "searchKeywords": [
+        "sedans 28",
+        "Automotive",
+        "Cars",
+        "Sedans"
+      ],
+      "tags": [
+        "Sedans",
+        "Automotive",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0029",
+    "slug": "trucks-29",
+    "translations": {
+      "en": {
+        "category": "Automotive / Trucks",
+        "name": "Isuzu N-Series Truck",
+        "description": "Medium-duty truck suitable for logistics."
+      },
+      "so": {
+        "category": "Gawaari / Trucks",
+        "name": "Isuzu N-Series Truck",
+        "description": "Gaari xamuul oo dhexdhexaad ah oo logistics ku fiican."
+      },
+      "ar": {
+        "category": "سيارات / شاحنات",
+        "name": "شاحنة إيسوزو N",
+        "description": "شاحنة متوسطة للوجستيات."
+      },
+      "fr": {
+        "category": "Automobile / Camions",
+        "name": "Camion Isuzu N-Series",
+        "description": "Camion moyen pour logistique."
+      },
+      "es": {
+        "category": "Automotriz / Camiones",
+        "name": "Camión Isuzu N-Series",
+        "description": "Camión mediano para logística."
+      }
+    },
+    "price": {
+      "amount": 130.41,
+      "currency": "USD",
+      "originalPrice": 186.59
+    },
+    "inventory": {
+      "quantity": 9,
+      "sku": "TRUCKS_29-29",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.73,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/trucks-29-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/trucks-29-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/trucks-29-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/trucks-29-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 2033,
+      "inquiries": 127,
+      "sales": 281,
+      "flags": 5,
+      "ratings": 4.92,
+      "wishlistCount": 172,
+      "cartAdds": 131
+    },
+    "reviews": {
+      "average": 4.65,
+      "count": 500,
+      "breakdown": {
+        "5": 300,
+        "4": 125,
+        "3": 50,
+        "2": 15,
+        "1": 10
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": "Misclassified",
+        "timestamp": "2025-09-20"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-24",
+      "updatedAt": "2025-08-06",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "5.41 kg",
+      "dimensions": "27x79x34 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Mogadishu",
+      "coordinates": [
+        4.309995,
+        122.064658
+      ]
+    },
+    "attributes": {
+      "make": "Isuzu",
+      "model": "N-Series",
+      "year": 2017,
+      "mileage": "120,000 km",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "color": "White"
+    },
+    "seo": {
+      "seoTitle": "Isuzu N-Series Truck | Automotive Trucks",
+      "seoDescription": "Buy Isuzu N-Series Truck in Trucks category. Great price & fast delivery.",
+      "searchKeywords": [
+        "trucks 29",
+        "Automotive",
+        "Trucks"
+      ],
+      "tags": [
+        "Trucks",
+        "Automotive",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0030",
+    "slug": "motorcycles-30",
+    "translations": {
+      "en": {
+        "category": "Automotive / Motorcycles",
+        "name": "Yamaha YBR 125",
+        "description": "Economical motorcycle ideal for daily commuting."
+      },
+      "so": {
+        "category": "Gawaari / Mooto",
+        "name": "Yamaha YBR 125",
+        "description": "Mooto dhaqaale fiican oo maalinle ah."
+      },
+      "ar": {
+        "category": "سيارات / دراجات نارية",
+        "name": "ياماها YBR 125",
+        "description": "دراجة اقتصادية مثالية للتنقل اليومي."
+      },
+      "fr": {
+        "category": "Automobile / Motos",
+        "name": "Yamaha YBR 125",
+        "description": "Moto économique pour trajets quotidiens."
+      },
+      "es": {
+        "category": "Automotriz / Motocicletas",
+        "name": "Yamaha YBR 125",
+        "description": "Moto económica para el día a día."
+      }
+    },
+    "price": {
+      "amount": 15.04,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 24,
+      "sku": "MOTORCYCLES_30-30",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-101",
+      "name": "Mogadishu Boutique",
+      "logoUrl": "https://picsum.photos/seed/s101/100/100",
+      "region": "Somalia",
+      "rating": 4.03,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/motorcycles-30-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/motorcycles-30-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/motorcycles-30-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/motorcycles-30-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 10,
+      "promotion": "Flash Sale",
+      "clearance": false,
+      "startDate": "2025-08-27",
+      "endDate": "2025-09-25",
+      "featured": true
+    },
+    "analytics": {
+      "views": 3978,
+      "inquiries": 168,
+      "sales": 249,
+      "flags": 0,
+      "ratings": 3.51,
+      "wishlistCount": 282,
+      "cartAdds": 210
+    },
+    "reviews": {
+      "average": 3.52,
+      "count": 542,
+      "breakdown": {
+        "5": 325,
+        "4": 135,
+        "3": 54,
+        "2": 16,
+        "1": 10
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-07-19",
+      "updatedAt": "2025-09-07",
+      "publishedAt": "2025-07-19",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "0.45 kg",
+      "dimensions": "65x32x9 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Nairobi",
+      "coordinates": [
+        -46.62561,
+        43.121103
+      ]
+    },
+    "attributes": {
+      "make": "Yamaha",
+      "model": "YBR 125",
+      "year": 2021,
+      "mileage": "8,000 km",
+      "fuelType": "Gasoline",
+      "transmission": "Manual",
+      "color": "Red"
+    },
+    "seo": {
+      "seoTitle": "Yamaha YBR 125 | Automotive Motorcycles",
+      "seoDescription": "Buy Yamaha YBR 125 in Motorcycles category. Great price & fast delivery.",
+      "searchKeywords": [
+        "motorcycles 30",
+        "Automotive",
+        "Motorcycles"
+      ],
+      "tags": [
+        "Motorcycles",
+        "Automotive",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0031",
+    "slug": "bicycles-31",
+    "translations": {
+      "en": {
+        "category": "Automotive / Bicycles",
+        "name": "Mountain Bike 29er",
+        "description": "Durable mountain bike with hydraulic brakes."
+      },
+      "so": {
+        "category": "Gawaari / Baaskiil",
+        "name": "Baaskiil Buuraley 29er",
+        "description": "Baaskiil adkeysi leh oo leh bareegyo hydraulic."
+      },
+      "ar": {
+        "category": "سيارات / دراجات هوائية",
+        "name": "دراجة جبلية 29er",
+        "description": "دراجة متينة مع مكابح هيدروليكية."
+      },
+      "fr": {
+        "category": "Automobile / Vélos",
+        "name": "VTT 29er",
+        "description": "VTT robuste avec freins hydrauliques."
+      },
+      "es": {
+        "category": "Automotriz / Bicicletas",
+        "name": "Bicicleta de montaña 29er",
+        "description": "Bici de montaña con frenos hidráulicos."
+      }
+    },
+    "price": {
+      "amount": 304.71,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 2,
+      "sku": "BICYCLES_31-31",
+      "stockStatus": "low"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.85,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/bicycles-31-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/bicycles-31-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/bicycles-31-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/bicycles-31-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 1870,
+      "inquiries": 76,
+      "sales": 41,
+      "flags": 5,
+      "ratings": 4.99,
+      "wishlistCount": 332,
+      "cartAdds": 388
+    },
+    "reviews": {
+      "average": 3.55,
+      "count": 415,
+      "breakdown": {
+        "5": 249,
+        "4": 103,
+        "3": 41,
+        "2": 12,
+        "1": 8
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": null,
+        "timestamp": "2025-09-24"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-06",
+      "updatedAt": "2025-09-25",
+      "publishedAt": "2025-07-06",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "10.6 kg",
+      "dimensions": "20x73x30 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Hargeisa",
+      "coordinates": [
+        71.062418,
+        150.894798
+      ]
+    },
+    "attributes": {
+      "type": "MTB",
+      "wheelSize": "29 inch",
+      "frame": "Aluminum",
+      "brakes": "Hydraulic"
+    },
+    "seo": {
+      "seoTitle": "Mountain Bike 29er | Automotive Bicycles",
+      "seoDescription": "Buy Mountain Bike 29er in Bicycles category. Great price & fast delivery.",
+      "searchKeywords": [
+        "bicycles 31",
+        "Automotive",
+        "Bicycles"
+      ],
+      "tags": [
+        "Bicycles",
+        "Automotive",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0032",
+    "slug": "suvs-32",
+    "translations": {
+      "en": {
+        "category": "Automotive / Cars / SUVs",
+        "name": "Nissan X-Trail 2017",
+        "description": "Compact SUV with AWD and good fuel economy."
+      },
+      "so": {
+        "category": "Gawaari / Gawaari / SUVs",
+        "name": "Nissan X-Trail 2017",
+        "description": "SUV yar oo AWD leh."
+      },
+      "ar": {
+        "category": "سيارات / سيارات / دفع رباعي",
+        "name": "نيسان إكس-تريل 2017",
+        "description": "SUV مدمجة بدفع رباعي واقتصاد جيد."
+      },
+      "fr": {
+        "category": "Automobile / Voitures / SUV",
+        "name": "Nissan X-Trail 2017",
+        "description": "SUV compacte avec AWD."
+      },
+      "es": {
+        "category": "Automotriz / Autos / SUV",
+        "name": "Nissan X-Trail 2017",
+        "description": "SUV compacta con AWD."
+      }
+    },
+    "price": {
+      "amount": 46.78,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 8,
+      "sku": "SUVS_32-32",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-402",
+      "name": "Ottawa Estates",
+      "logoUrl": "https://picsum.photos/seed/s402/100/100",
+      "region": "Canada",
+      "rating": 4.61,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/suvs-32-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/suvs-32-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/suvs-32-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/suvs-32-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 4636,
+      "inquiries": 168,
+      "sales": 16,
+      "flags": 1,
+      "ratings": 4.89,
+      "wishlistCount": 161,
+      "cartAdds": 8
+    },
+    "reviews": {
+      "average": 4.94,
+      "count": 147,
+      "breakdown": {
+        "5": 88,
+        "4": 36,
+        "3": 14,
+        "2": 4,
+        "1": 2
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-06-26",
+      "updatedAt": "2025-08-04",
+      "publishedAt": "2025-06-26",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "6.09 kg",
+      "dimensions": "19x48x13 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Toronto",
+      "coordinates": [
+        31.866294,
+        14.602475
+      ]
+    },
+    "attributes": {
+      "make": "Nissan",
+      "model": "X-Trail",
+      "year": 2017,
+      "mileage": "95,000 km",
+      "fuelType": "Gasoline",
+      "transmission": "Automatic",
+      "color": "Silver"
+    },
+    "seo": {
+      "seoTitle": "Nissan X-Trail 2017 | Automotive Cars SUVs",
+      "seoDescription": "Buy Nissan X-Trail 2017 in SUVs category. Great price & fast delivery.",
+      "searchKeywords": [
+        "suvs 32",
+        "Automotive",
+        "Cars",
+        "SUVs"
+      ],
+      "tags": [
+        "SUVs",
+        "Automotive",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0033",
+    "slug": "sedans-33",
+    "translations": {
+      "en": {
+        "category": "Automotive / Cars / Sedans",
+        "name": "Tesla Model 3 2020",
+        "description": "Electric sedan with Autopilot and long range."
+      },
+      "so": {
+        "category": "Gawaari / Gawaari / Sedans",
+        "name": "Tesla Model 3 2020",
+        "description": "Sedan koronto ah oo range dheer leh."
+      },
+      "ar": {
+        "category": "سيارات / سيارات / سيدان",
+        "name": "تسلا موديل 3 2020",
+        "description": "سيدان كهربائي مع مدى طويل."
+      },
+      "fr": {
+        "category": "Automobile / Voitures / Berlines",
+        "name": "Tesla Model 3 2020",
+        "description": "Berline électrique avec grande autonomie."
+      },
+      "es": {
+        "category": "Automotriz / Autos / Sedanes",
+        "name": "Tesla Model 3 2020",
+        "description": "Sedán eléctrico de gran autonomía."
+      }
+    },
+    "price": {
+      "amount": 598.91,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 16,
+      "sku": "SEDANS_33-33",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 4.45,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/sedans-33-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-33-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-33-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sedans-33-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 642,
+      "inquiries": 87,
+      "sales": 203,
+      "flags": 2,
+      "ratings": 3.54,
+      "wishlistCount": 139,
+      "cartAdds": 401
+    },
+    "reviews": {
+      "average": 4.99,
+      "count": 502,
+      "breakdown": {
+        "5": 301,
+        "4": 125,
+        "3": 50,
+        "2": 15,
+        "1": 10
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": null,
+        "timestamp": "2025-09-12"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-02",
+      "updatedAt": "2025-08-13",
+      "publishedAt": "2025-09-02",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "8.87 kg",
+      "dimensions": "58x20x21 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Hargeisa",
+      "coordinates": [
+        -75.233158,
+        -124.480453
+      ]
+    },
+    "attributes": {
+      "make": "Tesla",
+      "model": "Model 3",
+      "year": 2020,
+      "mileage": "30,000 miles",
+      "fuelType": "Electric",
+      "transmission": "Single-speed",
+      "color": "White"
+    },
+    "seo": {
+      "seoTitle": "Tesla Model 3 2020 | Automotive Cars Sedans",
+      "seoDescription": "Buy Tesla Model 3 2020 in Sedans category. Great price & fast delivery.",
+      "searchKeywords": [
+        "sedans 33",
+        "Automotive",
+        "Cars",
+        "Sedans"
+      ],
+      "tags": [
+        "Sedans",
+        "Automotive",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0034",
+    "slug": "vans-34",
+    "translations": {
+      "en": {
+        "category": "Automotive / Vans",
+        "name": "Toyota HiAce Van",
+        "description": "Reliable van for cargo or passenger transport."
+      },
+      "so": {
+        "category": "Gawaari / Vans",
+        "name": "Toyota HiAce Van",
+        "description": "Van la isku halayn karo oo xamuul/raacaad."
+      },
+      "ar": {
+        "category": "سيارات / فان",
+        "name": "تويوتا هايس فان",
+        "description": "فان موثوق للنقل."
+      },
+      "fr": {
+        "category": "Automobile / Vans",
+        "name": "Toyota HiAce Van",
+        "description": "Fourgon fiable pour transport."
+      },
+      "es": {
+        "category": "Automotriz / Vanes",
+        "name": "Toyota HiAce Van",
+        "description": "Furgoneta confiable para transporte."
+      }
+    },
+    "price": {
+      "amount": 294.95,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 10,
+      "sku": "VANS_34-34",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.99,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/vans-34-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/vans-34-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/vans-34-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/vans-34-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 2229,
+      "inquiries": 26,
+      "sales": 67,
+      "flags": 0,
+      "ratings": 3.78,
+      "wishlistCount": 229,
+      "cartAdds": 285
+    },
+    "reviews": {
+      "average": 4.33,
+      "count": 417,
+      "breakdown": {
+        "5": 250,
+        "4": 104,
+        "3": 41,
+        "2": 12,
+        "1": 8
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-kenya",
+        "reason": null,
+        "timestamp": "2025-09-14"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-17",
+      "updatedAt": "2025-09-20",
+      "publishedAt": "2025-07-17",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "9.03 kg",
+      "dimensions": "51x59x3 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Toronto",
+      "coordinates": [
+        50.250439,
+        80.943784
+      ]
+    },
+    "attributes": {
+      "make": "Toyota",
+      "model": "HiAce",
+      "year": 2016,
+      "mileage": "180,000 km",
+      "fuelType": "Diesel",
+      "transmission": "Manual",
+      "color": "White"
+    },
+    "seo": {
+      "seoTitle": "Toyota HiAce Van | Automotive Vans",
+      "seoDescription": "Buy Toyota HiAce Van in Vans category. Great price & fast delivery.",
+      "searchKeywords": [
+        "vans 34",
+        "Automotive",
+        "Vans"
+      ],
+      "tags": [
+        "Vans",
+        "Automotive",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0035",
+    "slug": "spare-parts-35",
+    "translations": {
+      "en": {
+        "category": "Automotive / Spare Parts",
+        "name": "Brake Pads Set",
+        "description": "High quality brake pads compatible with multiple models."
+      },
+      "so": {
+        "category": "Gawaari / Qaybo Kayd ah",
+        "name": "Qalabka Bareegga",
+        "description": "Bareeg tayo leh oo la jaan qaada moodallo badan."
+      },
+      "ar": {
+        "category": "سيارات / قطع غيار",
+        "name": "طقم فحمات فرامل",
+        "description": "فحمات عالية الجودة متوافقة مع عدة موديلات."
+      },
+      "fr": {
+        "category": "Automobile / Pièces détachées",
+        "name": "Jeu de plaquettes de frein",
+        "description": "Plaquettes de qualité compatibles multi-modèles."
+      },
+      "es": {
+        "category": "Automotriz / Refacciones",
+        "name": "Juego de pastillas de freno",
+        "description": "Pastillas de freno de alta calidad."
+      }
+    },
+    "price": {
+      "amount": 421.67,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 18,
+      "sku": "SPARE_PARTS_35-35",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-202",
+      "name": "Kenya Prime Realty",
+      "logoUrl": "https://picsum.photos/seed/s202/100/100",
+      "region": "Kenya",
+      "rating": 4.22,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/spare-parts-35-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/spare-parts-35-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/spare-parts-35-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/spare-parts-35-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 15,
+      "promotion": "Holiday Deal",
+      "clearance": false,
+      "startDate": "2025-09-21",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 3469,
+      "inquiries": 76,
+      "sales": 247,
+      "flags": 0,
+      "ratings": 4.04,
+      "wishlistCount": 126,
+      "cartAdds": 369
+    },
+    "reviews": {
+      "average": 4.44,
+      "count": 200,
+      "breakdown": {
+        "5": 120,
+        "4": 50,
+        "3": 20,
+        "2": 6,
+        "1": 4
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-09-16"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-25",
+      "updatedAt": "2025-07-27",
+      "publishedAt": "2025-09-25",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "6.06 kg",
+      "dimensions": "58x52x31 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Nairobi",
+      "coordinates": [
+        -35.921649,
+        37.156057
+      ]
+    },
+    "attributes": {
+      "compatibility": "Multiple models",
+      "material": "Ceramic",
+      "package": "Set of 4"
+    },
+    "seo": {
+      "seoTitle": "Brake Pads Set | Automotive Spare Parts",
+      "seoDescription": "Buy Brake Pads Set in Spare Parts category. Great price & fast delivery.",
+      "searchKeywords": [
+        "spare parts 35",
+        "Automotive",
+        "Spare Parts"
+      ],
+      "tags": [
+        "Spare Parts",
+        "Automotive",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0036",
+    "slug": "for-sale-36",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Apartments / For Sale",
+        "name": "2-Bedroom Apartment Nairobi",
+        "description": "Modern apartment near city center, secure and bright."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Guryo Dabaq ah / Iib",
+        "name": "Guri Dabaq 2-Qol Nairobi",
+        "description": "Guri casri ah oo ammaan ah oo u dhow bartamaha."
+      },
+      "ar": {
+        "category": "عقارات / شقق / للبيع",
+        "name": "شقة غرفتين في نيروبي",
+        "description": "شقة حديثة قريبة من المركز آمنة ومضيئة."
+      },
+      "fr": {
+        "category": "Immobilier / Appartements / À vendre",
+        "name": "Appartement 2 pièces à Nairobi",
+        "description": "Appartement moderne, sécurisé et lumineux."
+      },
+      "es": {
+        "category": "Bienes raíces / Departamentos / En venta",
+        "name": "Departamento de 2 habitaciones en Nairobi",
+        "description": "Departamento moderno seguro y luminoso."
+      }
+    },
+    "price": {
+      "amount": 324.61,
+      "currency": "USD",
+      "originalPrice": 379.29
+    },
+    "inventory": {
+      "quantity": 30,
+      "sku": "FOR_SALE_36-36",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-201",
+      "name": "Nairobi AutoMall",
+      "logoUrl": "https://picsum.photos/seed/s201/100/100",
+      "region": "Kenya",
+      "rating": 4.25,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/for-sale-36-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-36-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-36-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-36-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 2005,
+      "inquiries": 83,
+      "sales": 192,
+      "flags": 2,
+      "ratings": 4.72,
+      "wishlistCount": 201,
+      "cartAdds": 186
+    },
+    "reviews": {
+      "average": 3.67,
+      "count": 577,
+      "breakdown": {
+        "5": 346,
+        "4": 144,
+        "3": 57,
+        "2": 17,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-09-04"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-19",
+      "updatedAt": "2025-08-21",
+      "publishedAt": "2025-06-19",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "0.6 kg",
+      "dimensions": "69x36x31 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Hargeisa",
+      "coordinates": [
+        57.413802,
+        106.436461
+      ]
+    },
+    "attributes": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "size": "85 sqm",
+      "furnished": true,
+      "parking": true
+    },
+    "seo": {
+      "seoTitle": "2-Bedroom Apartment Nairobi | Real Estate Apartments For Sale",
+      "seoDescription": "Buy 2-Bedroom Apartment Nairobi in For Sale category. Great price & fast delivery.",
+      "searchKeywords": [
+        "for sale 36",
+        "Real Estate",
+        "Apartments",
+        "For Sale"
+      ],
+      "tags": [
+        "For Sale",
+        "Real Estate",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0037",
+    "slug": "for-sale-37",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Houses / For Sale",
+        "name": "3BR House Mogadishu",
+        "description": "Family home with garden and borehole water."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Guryo / Iib",
+        "name": "Guri 3-Qol Muqdisho",
+        "description": "Guri qoys leh beero iyo biyo ceel."
+      },
+      "ar": {
+        "category": "عقارات / منازل / للبيع",
+        "name": "منزل 3 غرف في مقديشو",
+        "description": "منزل عائلي بحديقة ومياه بئر."
+      },
+      "fr": {
+        "category": "Immobilier / Maisons / À vendre",
+        "name": "Maison 3 chambres à Mogadiscio",
+        "description": "Maison familiale avec jardin."
+      },
+      "es": {
+        "category": "Bienes raíces / Casas / En venta",
+        "name": "Casa 3 recámaras en Mogadiscio",
+        "description": "Casa familiar con jardín."
+      }
+    },
+    "price": {
+      "amount": 209.62,
+      "currency": "USD",
+      "originalPrice": 241.2
+    },
+    "inventory": {
+      "quantity": 7,
+      "sku": "FOR_SALE_37-37",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-301",
+      "name": "Twin Cities Deals",
+      "logoUrl": "https://picsum.photos/seed/s301/100/100",
+      "region": "Minnesota",
+      "rating": 4.47,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/for-sale-37-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-37-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-37-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-37-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 625,
+      "inquiries": 114,
+      "sales": 245,
+      "flags": 4,
+      "ratings": 4.1,
+      "wishlistCount": 259,
+      "cartAdds": 472
+    },
+    "reviews": {
+      "average": 4.88,
+      "count": 428,
+      "breakdown": {
+        "5": 256,
+        "4": 107,
+        "3": 42,
+        "2": 12,
+        "1": 8
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-03"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-03",
+      "updatedAt": "2025-08-05",
+      "publishedAt": "2025-06-03",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "8.15 kg",
+      "dimensions": "20x23x18 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Saint Paul",
+      "coordinates": [
+        -60.059071,
+        40.564045
+      ]
+    },
+    "attributes": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "size": "180 sqm",
+      "lot": "400 sqm",
+      "parking": true,
+      "furnished": false
+    },
+    "seo": {
+      "seoTitle": "3BR House Mogadishu | Real Estate Houses For Sale",
+      "seoDescription": "Buy 3BR House Mogadishu in For Sale category. Great price & fast delivery.",
+      "searchKeywords": [
+        "for sale 37",
+        "Real Estate",
+        "Houses",
+        "For Sale"
+      ],
+      "tags": [
+        "For Sale",
+        "Real Estate",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0038",
+    "slug": "for-sale-38",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Villas / For Sale",
+        "name": "Luxury Villa Toronto",
+        "description": "Premium finishes, pool, and smart home."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Fillo / Iib",
+        "name": "Fillo Raaxo Toronto",
+        "description": "Dhisme raaxo leh, barkad, guri caqli badan."
+      },
+      "ar": {
+        "category": "عقارات / فلل / للبيع",
+        "name": "فيلا فاخرة في تورونتو",
+        "description": "تشطيبات فاخرة ومسبح ومنزل ذكي."
+      },
+      "fr": {
+        "category": "Immobilier / Villas / À vendre",
+        "name": "Villa de luxe à Toronto",
+        "description": "Finitions premium, piscine, domotique."
+      },
+      "es": {
+        "category": "Bienes raíces / Villas / En venta",
+        "name": "Villa de lujo en Toronto",
+        "description": "Acabados premium, piscina y domótica."
+      }
+    },
+    "price": {
+      "amount": 604.62,
+      "currency": "USD",
+      "originalPrice": 749.8199999999999
+    },
+    "inventory": {
+      "quantity": 30,
+      "sku": "FOR_SALE_38-38",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.18,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/for-sale-38-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-38-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-38-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-38-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 5,
+      "promotion": "Holiday Deal",
+      "clearance": false,
+      "startDate": "2025-08-23",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 3224,
+      "inquiries": 118,
+      "sales": 256,
+      "flags": 1,
+      "ratings": 4.02,
+      "wishlistCount": 12,
+      "cartAdds": 247
+    },
+    "reviews": {
+      "average": 3.66,
+      "count": 425,
+      "breakdown": {
+        "5": 255,
+        "4": 106,
+        "3": 42,
+        "2": 12,
+        "1": 8
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-kenya",
+        "reason": "Low image quality",
+        "timestamp": "2025-08-30"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-05-28",
+      "updatedAt": "2025-08-10",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "2.3 kg",
+      "dimensions": "49x53x32 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Ottawa",
+      "coordinates": [
+        -27.305947,
+        -144.855709
+      ]
+    },
+    "attributes": {
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "size": "420 sqm",
+      "lot": "800 sqm",
+      "pool": true,
+      "smartHome": true
+    },
+    "seo": {
+      "seoTitle": "Luxury Villa Toronto | Real Estate Villas For Sale",
+      "seoDescription": "Buy Luxury Villa Toronto in For Sale category. Great price & fast delivery.",
+      "searchKeywords": [
+        "for sale 38",
+        "Real Estate",
+        "Villas",
+        "For Sale"
+      ],
+      "tags": [
+        "For Sale",
+        "Real Estate",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0039",
+    "slug": "rentals-39",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Apartments / Rentals",
+        "name": "Studio Apartment Hargeisa",
+        "description": "Cozy studio with balcony and city view."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Guryo Dabaq ah / Kiro",
+        "name": "Studio Hargeysa",
+        "description": "Studio raaxo leh oo leh balakoon."
+      },
+      "ar": {
+        "category": "عقارات / شقق / إيجارات",
+        "name": "استوديو في هرجيسا",
+        "description": "استوديو مريح مع شرفة وإطلالة."
+      },
+      "fr": {
+        "category": "Immobilier / Appartements / Locations",
+        "name": "Studio à Hargeisa",
+        "description": "Studio confortable avec balcon."
+      },
+      "es": {
+        "category": "Bienes raíces / Departamentos / Alquileres",
+        "name": "Estudio en Hargeisa",
+        "description": "Estudio acogedor con balcón."
+      }
+    },
+    "price": {
+      "amount": 45.3,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 9,
+      "sku": "RENTALS_39-39",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 3.82,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/rentals-39-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-39-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-39-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-39-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 915,
+      "inquiries": 173,
+      "sales": 84,
+      "flags": 5,
+      "ratings": 3.87,
+      "wishlistCount": 89,
+      "cartAdds": 282
+    },
+    "reviews": {
+      "average": 3.74,
+      "count": 573,
+      "breakdown": {
+        "5": 343,
+        "4": 143,
+        "3": 57,
+        "2": 17,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": null,
+        "timestamp": "2025-09-18"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-15",
+      "updatedAt": "2025-08-31",
+      "publishedAt": "2025-06-15",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "9.52 kg",
+      "dimensions": "33x65x28 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Mombasa",
+      "coordinates": [
+        -9.076498,
+        -25.360977
+      ]
+    },
+    "attributes": {
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "size": "35 sqm",
+      "balcony": true,
+      "furnished": true
+    },
+    "seo": {
+      "seoTitle": "Studio Apartment Hargeisa | Real Estate Apartments Rentals",
+      "seoDescription": "Buy Studio Apartment Hargeisa in Rentals category. Great price & fast delivery.",
+      "searchKeywords": [
+        "rentals 39",
+        "Real Estate",
+        "Apartments",
+        "Rentals"
+      ],
+      "tags": [
+        "Rentals",
+        "Real Estate",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0040",
+    "slug": "for-sale-40",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Land / For Sale",
+        "name": "Prime Land Plot Nairobi",
+        "description": "Serviced plot suitable for residential development."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Dhul / Iib",
+        "name": "Dhul Qiimo Leh Nairobi",
+        "description": "Dhul adeegyo leh oo guri lagu dhiso."
+      },
+      "ar": {
+        "category": "عقارات / أراضٍ / للبيع",
+        "name": "قطعة أرض مميزة في نيروبي",
+        "description": "قطعة مخدومة مناسبة للتطوير السكني."
+      },
+      "fr": {
+        "category": "Immobilier / Terrains / À vendre",
+        "name": "Terrain de choix à Nairobi",
+        "description": "Terrain viabilisé pour résidentiel."
+      },
+      "es": {
+        "category": "Bienes raíces / Terrenos / En venta",
+        "name": "Terreno premium en Nairobi",
+        "description": "Terreno con servicios para vivienda."
+      }
+    },
+    "price": {
+      "amount": 565.97,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 24,
+      "sku": "FOR_SALE_40-40",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-301",
+      "name": "Twin Cities Deals",
+      "logoUrl": "https://picsum.photos/seed/s301/100/100",
+      "region": "Minnesota",
+      "rating": 4.42,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/for-sale-40-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-40-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-40-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-40-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 4418,
+      "inquiries": 47,
+      "sales": 187,
+      "flags": 2,
+      "ratings": 3.8,
+      "wishlistCount": 58,
+      "cartAdds": 134
+    },
+    "reviews": {
+      "average": 4.51,
+      "count": 501,
+      "breakdown": {
+        "5": 300,
+        "4": 125,
+        "3": 50,
+        "2": 15,
+        "1": 10
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-06"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-08-07",
+      "updatedAt": "2025-08-17",
+      "publishedAt": "2025-08-07",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "6.01 kg",
+      "dimensions": "24x54x25 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Nairobi",
+      "coordinates": [
+        56.472886,
+        74.15581
+      ]
+    },
+    "attributes": {
+      "size": "1,000 sqm",
+      "zoning": "Residential",
+      "titleDeed": true
+    },
+    "seo": {
+      "seoTitle": "Prime Land Plot Nairobi | Real Estate Land For Sale",
+      "seoDescription": "Buy Prime Land Plot Nairobi in For Sale category. Great price & fast delivery.",
+      "searchKeywords": [
+        "for sale 40",
+        "Real Estate",
+        "Land",
+        "For Sale"
+      ],
+      "tags": [
+        "For Sale",
+        "Real Estate",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0041",
+    "slug": "for-sale-41",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Commercial / For Sale",
+        "name": "Retail Shop Space Ottawa",
+        "description": "Ground-floor retail unit with high footfall."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Guryo Ganacsi / Iib",
+        "name": "Goob Dukaameysi Ottawa",
+        "description": "Meel ganacsi oo socod badan leh."
+      },
+      "ar": {
+        "category": "عقارات / عقارات تجارية / للبيع",
+        "name": "محل تجاري في أوتاوا",
+        "description": "محل بالدور الأرضي بحركة عالية."
+      },
+      "fr": {
+        "category": "Immobilier / Commerces / À vendre",
+        "name": "Local commercial à Ottawa",
+        "description": "Local RDC à fort passage."
+      },
+      "es": {
+        "category": "Bienes raíces / Locales comerciales / En venta",
+        "name": "Local comercial en Ottawa",
+        "description": "Local planta baja con alto tránsito."
+      }
+    },
+    "price": {
+      "amount": 115.82,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 21,
+      "sku": "FOR_SALE_41-41",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 4.24,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/for-sale-41-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-41-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-41-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-41-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 15,
+      "promotion": "Clearance",
+      "clearance": false,
+      "startDate": "2025-08-30",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 3485,
+      "inquiries": 47,
+      "sales": 249,
+      "flags": 5,
+      "ratings": 4.31,
+      "wishlistCount": 330,
+      "cartAdds": 476
+    },
+    "reviews": {
+      "average": 5.0,
+      "count": 568,
+      "breakdown": {
+        "5": 340,
+        "4": 142,
+        "3": 56,
+        "2": 17,
+        "1": 11
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-21"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-02",
+      "updatedAt": "2025-09-05",
+      "publishedAt": "2025-09-02",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "12.66 kg",
+      "dimensions": "16x55x3 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Mombasa",
+      "coordinates": [
+        56.738869,
+        166.978472
+      ]
+    },
+    "attributes": {
+      "size": "120 sqm",
+      "floor": "Ground",
+      "parking": true
+    },
+    "seo": {
+      "seoTitle": "Retail Shop Space Ottawa | Real Estate Commercial For Sale",
+      "seoDescription": "Buy Retail Shop Space Ottawa in For Sale category. Great price & fast delivery.",
+      "searchKeywords": [
+        "for sale 41",
+        "Real Estate",
+        "Commercial",
+        "For Sale"
+      ],
+      "tags": [
+        "For Sale",
+        "Real Estate",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0042",
+    "slug": "rentals-42",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Houses / Rentals",
+        "name": "4BR House Minnesota",
+        "description": "Spacious rental with garage and backyard."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Guryo / Kiro",
+        "name": "Guri 4-Qol Minnesota",
+        "description": "Guri ballaadhan oo kirro ah."
+      },
+      "ar": {
+        "category": "عقارات / منازل / إيجارات",
+        "name": "منزل 4 غرف في مينيسوتا",
+        "description": "إيجار واسع مع كراج وحديقة خلفية."
+      },
+      "fr": {
+        "category": "Immobilier / Maisons / Locations",
+        "name": "Maison 4 chambres Minnesota",
+        "description": "Location spacieuse avec garage."
+      },
+      "es": {
+        "category": "Bienes raíces / Casas / Alquileres",
+        "name": "Casa 4 habitaciones Minnesota",
+        "description": "Renta amplia con cochera y patio."
+      }
+    },
+    "price": {
+      "amount": 571.01,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 13,
+      "sku": "RENTALS_42-42",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-402",
+      "name": "Ottawa Estates",
+      "logoUrl": "https://picsum.photos/seed/s402/100/100",
+      "region": "Canada",
+      "rating": 3.95,
+      "status": "pending"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/rentals-42-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-42-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-42-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-42-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 5,
+      "promotion": "Clearance",
+      "clearance": false,
+      "startDate": "2025-09-08",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 1397,
+      "inquiries": 199,
+      "sales": 234,
+      "flags": 4,
+      "ratings": 4.61,
+      "wishlistCount": 392,
+      "cartAdds": 253
+    },
+    "reviews": {
+      "average": 4.32,
+      "count": 115,
+      "breakdown": {
+        "5": 69,
+        "4": 28,
+        "3": 11,
+        "2": 3,
+        "1": 2
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-01"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-18",
+      "updatedAt": "2025-08-04",
+      "publishedAt": "2025-07-18",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "14.87 kg",
+      "dimensions": "79x15x31 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Toronto",
+      "coordinates": [
+        -71.565041,
+        118.825458
+      ]
+    },
+    "attributes": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "size": "220 sqm",
+      "garage": true,
+      "lease": "12 months"
+    },
+    "seo": {
+      "seoTitle": "4BR House Minnesota | Real Estate Houses Rentals",
+      "seoDescription": "Buy 4BR House Minnesota in Rentals category. Great price & fast delivery.",
+      "searchKeywords": [
+        "rentals 42",
+        "Real Estate",
+        "Houses",
+        "Rentals"
+      ],
+      "tags": [
+        "Rentals",
+        "Real Estate",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0043",
+    "slug": "rentals-43",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Offices / Rentals",
+        "name": "Office Space Toronto CBD",
+        "description": "Flexible office space with shared amenities."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Xafiisyo / Kiro",
+        "name": "Xafiis Toronto CBD",
+        "description": "Xafiis dabacsan oo adeegyo wadaag ah."
+      },
+      "ar": {
+        "category": "عقارات / مكاتب / إيجارات",
+        "name": "مكتب في وسط تورونتو",
+        "description": "مساحة مكتب مرنة مع خدمات مشتركة."
+      },
+      "fr": {
+        "category": "Immobilier / Bureaux / Locations",
+        "name": "Bureau Toronto centre",
+        "description": "Bureau flexible avec services partagés."
+      },
+      "es": {
+        "category": "Bienes raíces / Oficinas / Alquileres",
+        "name": "Oficina en centro Toronto",
+        "description": "Oficina flexible con servicios compartidos."
+      }
+    },
+    "price": {
+      "amount": 217.62,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 14,
+      "sku": "RENTALS_43-43",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-101",
+      "name": "Mogadishu Boutique",
+      "logoUrl": "https://picsum.photos/seed/s101/100/100",
+      "region": "Somalia",
+      "rating": 3.9,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/rentals-43-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-43-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-43-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rentals-43-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 981,
+      "inquiries": 198,
+      "sales": 121,
+      "flags": 1,
+      "ratings": 4.72,
+      "wishlistCount": 301,
+      "cartAdds": 352
+    },
+    "reviews": {
+      "average": 4.03,
+      "count": 438,
+      "breakdown": {
+        "5": 262,
+        "4": 109,
+        "3": 43,
+        "2": 13,
+        "1": 8
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-08-31"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-08-30",
+      "updatedAt": "2025-08-04",
+      "publishedAt": "2025-08-30",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "3.26 kg",
+      "dimensions": "17x54x37 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Nairobi",
+      "coordinates": [
+        -31.742349,
+        73.459354
+      ]
+    },
+    "attributes": {
+      "size": "300 sqm",
+      "furnished": false,
+      "meetingRooms": true
+    },
+    "seo": {
+      "seoTitle": "Office Space Toronto CBD | Real Estate Offices Rentals",
+      "seoDescription": "Buy Office Space Toronto CBD in Rentals category. Great price & fast delivery.",
+      "searchKeywords": [
+        "rentals 43",
+        "Real Estate",
+        "Offices",
+        "Rentals"
+      ],
+      "tags": [
+        "Rentals",
+        "Real Estate",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0044",
+    "slug": "for-sale-44",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Apartments / For Sale",
+        "name": "Penthouse with City View",
+        "description": "Top-floor penthouse, large terrace and elevator."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Guryo Dabaq ah / Iib",
+        "name": "Penthouse Muuqaal Magaalada",
+        "description": "Guri sare oo leh balakoon weyn."
+      },
+      "ar": {
+        "category": "عقارات / شقق / للبيع",
+        "name": "بنتهاوس بإطلالة على المدينة",
+        "description": "بنتهاوس بالطابق العلوي مع تراس كبير."
+      },
+      "fr": {
+        "category": "Immobilier / Appartements / À vendre",
+        "name": "Penthouse vue sur ville",
+        "description": "Dernier étage avec grande terrasse."
+      },
+      "es": {
+        "category": "Bienes raíces / Departamentos / En venta",
+        "name": "Ático con vista a la ciudad",
+        "description": "Ático último piso con gran terraza."
+      }
+    },
+    "price": {
+      "amount": 770.59,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 4,
+      "sku": "FOR_SALE_44-44",
+      "stockStatus": "low"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 4.8,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/for-sale-44-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-44-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-44-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-44-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 1059,
+      "inquiries": 179,
+      "sales": 67,
+      "flags": 1,
+      "ratings": 3.72,
+      "wishlistCount": 164,
+      "cartAdds": 424
+    },
+    "reviews": {
+      "average": 3.87,
+      "count": 402,
+      "breakdown": {
+        "5": 241,
+        "4": 100,
+        "3": 40,
+        "2": 12,
+        "1": 8
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": null,
+        "timestamp": "2025-09-05"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-08-03",
+      "updatedAt": "2025-09-01",
+      "publishedAt": "2025-08-03",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "6.89 kg",
+      "dimensions": "21x61x35 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Saint Paul",
+      "coordinates": [
+        -8.154783,
+        -4.303987
+      ]
+    },
+    "attributes": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "size": "260 sqm",
+      "terrace": true,
+      "elevator": true
+    },
+    "seo": {
+      "seoTitle": "Penthouse with City View | Real Estate Apartments For Sale",
+      "seoDescription": "Buy Penthouse with City View in For Sale category. Great price & fast delivery.",
+      "searchKeywords": [
+        "for sale 44",
+        "Real Estate",
+        "Apartments",
+        "For Sale"
+      ],
+      "tags": [
+        "For Sale",
+        "Real Estate",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0045",
+    "slug": "for-sale-45",
+    "translations": {
+      "en": {
+        "category": "Real Estate / Land / For Sale",
+        "name": "Agricultural Land Somalia",
+        "description": "Fertile land suitable for irrigation."
+      },
+      "so": {
+        "category": "Guryo & Dhul / Dhul / Iib",
+        "name": "Dhul Beer Somalia",
+        "description": "Dhul bacrin ah oo waraab lagu sameeyo."
+      },
+      "ar": {
+        "category": "عقارات / أراضٍ / للبيع",
+        "name": "أرض زراعية بالصومال",
+        "description": "أرض خصبة مناسبة للري."
+      },
+      "fr": {
+        "category": "Immobilier / Terrains / À vendre",
+        "name": "Terrain agricole Somalie",
+        "description": "Terrain fertile irrigable."
+      },
+      "es": {
+        "category": "Bienes raíces / Terrenos / En venta",
+        "name": "Terreno agrícola Somalia",
+        "description": "Tierra fértil apta para riego."
+      }
+    },
+    "price": {
+      "amount": 778.0,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 23,
+      "sku": "FOR_SALE_45-45",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 3.5,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/for-sale-45-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-45-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-45-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/for-sale-45-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 4398,
+      "inquiries": 101,
+      "sales": 111,
+      "flags": 3,
+      "ratings": 4.74,
+      "wishlistCount": 253,
+      "cartAdds": 137
+    },
+    "reviews": {
+      "average": 3.98,
+      "count": 290,
+      "breakdown": {
+        "5": 174,
+        "4": 72,
+        "3": 29,
+        "2": 8,
+        "1": 5
+      }
+    },
+    "workflow": {
+      "status": "approved",
+      "moderation": {
+        "by": "admin-minnesota",
+        "reason": null,
+        "timestamp": "2025-09-07"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-06-08",
+      "updatedAt": "2025-08-25",
+      "publishedAt": "2025-06-08",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "11.87 kg",
+      "dimensions": "16x15x9 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "coordinates": [
+        -67.637308,
+        128.754576
+      ]
+    },
+    "attributes": {
+      "size": "5 hectares",
+      "waterAccess": true,
+      "soil": "Loam"
+    },
+    "seo": {
+      "seoTitle": "Agricultural Land Somalia | Real Estate Land For Sale",
+      "seoDescription": "Buy Agricultural Land Somalia in For Sale category. Great price & fast delivery.",
+      "searchKeywords": [
+        "for sale 45",
+        "Real Estate",
+        "Land",
+        "For Sale"
+      ],
+      "tags": [
+        "For Sale",
+        "Real Estate",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0046",
+    "slug": "sofas-46",
+    "translations": {
+      "en": {
+        "category": "Home / Furniture / Sofas",
+        "name": "5-Seater Sofa Set",
+        "description": "Modern sofa set with premium fabric."
+      },
+      "so": {
+        "category": "Home / Furniture / Sofas",
+        "name": "Fadhiga 5-Qof",
+        "description": "Fadhi casri ah oo maro tayo leh."
+      },
+      "ar": {
+        "category": "Home / Furniture / Sofas",
+        "name": "طقم أريكة 5 مقاعد",
+        "description": "أريكة حديثة بقماش فاخر."
+      },
+      "fr": {
+        "category": "Home / Furniture / Sofas",
+        "name": "Canapé 5 places",
+        "description": "Canapé moderne en tissu premium."
+      },
+      "es": {
+        "category": "Home / Furniture / Sofas",
+        "name": "Sofá de 5 plazas",
+        "description": "Sofá moderno con tela premium."
+      }
+    },
+    "price": {
+      "amount": 796.6,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 6,
+      "sku": "SOFAS_46-46",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-401",
+      "name": "Toronto Furnishings",
+      "logoUrl": "https://picsum.photos/seed/s401/100/100",
+      "region": "Canada",
+      "rating": 4.79,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/sofas-46-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/sofas-46-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sofas-46-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/sofas-46-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 15,
+      "promotion": "Flash Sale",
+      "clearance": false,
+      "startDate": "2025-09-09",
+      "endDate": "2025-09-25",
+      "featured": false
+    },
+    "analytics": {
+      "views": 1375,
+      "inquiries": 13,
+      "sales": 202,
+      "flags": 5,
+      "ratings": 3.96,
+      "wishlistCount": 358,
+      "cartAdds": 386
+    },
+    "reviews": {
+      "average": 3.85,
+      "count": 93,
+      "breakdown": {
+        "5": 55,
+        "4": 23,
+        "3": 9,
+        "2": 2,
+        "1": 1
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-09-25",
+      "updatedAt": "2025-09-12",
+      "publishedAt": "2025-09-25",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "7.26 kg",
+      "dimensions": "26x38x36 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Mogadishu",
+      "coordinates": [
+        -88.548738,
+        -56.313306
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "5-Seater Sofa Set | Home Furniture Sofas",
+      "seoDescription": "Buy 5-Seater Sofa Set in Sofas category. Great price & fast delivery.",
+      "searchKeywords": [
+        "sofas 46",
+        "Home",
+        "Furniture",
+        "Sofas"
+      ],
+      "tags": [
+        "Sofas",
+        "Home",
+        "Canada"
+      ]
+    }
+  },
+  {
+    "id": "p-0047",
+    "slug": "beds-47",
+    "translations": {
+      "en": {
+        "category": "Home / Furniture / Beds",
+        "name": "Queen Bed Frame",
+        "description": "Solid wood frame with storage drawers."
+      },
+      "so": {
+        "category": "Home / Furniture / Beds",
+        "name": "Sariir Queen",
+        "description": "Sariir alwaax adag leh kaydin."
+      },
+      "ar": {
+        "category": "Home / Furniture / Beds",
+        "name": "سرير كوين",
+        "description": "هيكل خشبي مع أدراج تخزين."
+      },
+      "fr": {
+        "category": "Home / Furniture / Beds",
+        "name": "Cadre de lit Queen",
+        "description": "Cadre en bois massif avec rangements."
+      },
+      "es": {
+        "category": "Home / Furniture / Beds",
+        "name": "Cama Queen",
+        "description": "Estructura de madera con cajones."
+      }
+    },
+    "price": {
+      "amount": 65.95,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 15,
+      "sku": "BEDS_47-47",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-201",
+      "name": "Nairobi AutoMall",
+      "logoUrl": "https://picsum.photos/seed/s201/100/100",
+      "region": "Kenya",
+      "rating": 3.87,
+      "status": "pending"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/beds-47-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/beds-47-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/beds-47-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/beds-47-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 15,
+      "promotion": "Holiday Deal",
+      "clearance": true,
+      "startDate": "2025-09-17",
+      "endDate": "2025-09-25",
+      "featured": true
+    },
+    "analytics": {
+      "views": 4634,
+      "inquiries": 2,
+      "sales": 84,
+      "flags": 3,
+      "ratings": 4.03,
+      "wishlistCount": 109,
+      "cartAdds": 321
+    },
+    "reviews": {
+      "average": 4.62,
+      "count": 421,
+      "breakdown": {
+        "5": 252,
+        "4": 105,
+        "3": 42,
+        "2": 12,
+        "1": 8
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-07-31",
+      "updatedAt": "2025-08-01",
+      "publishedAt": "2025-07-31",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "3.42 kg",
+      "dimensions": "22x27x10 cm",
+      "deliveryEstimates": "7-14 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Toronto",
+      "coordinates": [
+        -26.723585,
+        -25.420053
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Queen Bed Frame | Home Furniture Beds",
+      "seoDescription": "Buy Queen Bed Frame in Beds category. Great price & fast delivery.",
+      "searchKeywords": [
+        "beds 47",
+        "Home",
+        "Furniture",
+        "Beds"
+      ],
+      "tags": [
+        "Beds",
+        "Home",
+        "Kenya"
+      ]
+    }
+  },
+  {
+    "id": "p-0048",
+    "slug": "tables-48",
+    "translations": {
+      "en": {
+        "category": "Home / Furniture / Tables",
+        "name": "Dining Table 6-Seater",
+        "description": "Wooden dining table, sturdy and elegant."
+      },
+      "so": {
+        "category": "Home / Furniture / Tables",
+        "name": "Miis Qado 6-Qof",
+        "description": "Miis alwaax ah oo adag."
+      },
+      "ar": {
+        "category": "Home / Furniture / Tables",
+        "name": "طاولة طعام 6 مقاعد",
+        "description": "Table solide et élégante en bois."
+      },
+      "fr": {
+        "category": "Home / Furniture / Tables",
+        "name": "Table à manger 6 places",
+        "description": "Mesa de madera resistente y elegante."
+      },
+      "es": {
+        "category": "Home / Furniture / Tables",
+        "name": "Mesa de comedor 6 plazas",
+        "description": "Wooden dining table, sturdy and elegant."
+      }
+    },
+    "price": {
+      "amount": 447.18,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 7,
+      "sku": "TABLES_48-48",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-102",
+      "name": "Hargeisa Home",
+      "logoUrl": "https://picsum.photos/seed/s102/100/100",
+      "region": "Somalia",
+      "rating": 3.52,
+      "status": "suspended"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/tables-48-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/tables-48-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tables-48-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/tables-48-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 239,
+      "inquiries": 168,
+      "sales": 154,
+      "flags": 1,
+      "ratings": 4.28,
+      "wishlistCount": 260,
+      "cartAdds": 96
+    },
+    "reviews": {
+      "average": 4.62,
+      "count": 302,
+      "breakdown": {
+        "5": 181,
+        "4": 75,
+        "3": 30,
+        "2": 9,
+        "1": 6
+      }
+    },
+    "workflow": {
+      "status": "pending",
+      "moderation": null
+    },
+    "audit": {
+      "createdAt": "2025-06-17",
+      "updatedAt": "2025-07-30",
+      "publishedAt": "2025-06-17",
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "11.95 kg",
+      "dimensions": "40x73x27 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "30-day returns"
+    },
+    "location": {
+      "country": "Somalia",
+      "city": "Ottawa",
+      "coordinates": [
+        24.854819,
+        -154.435679
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Dining Table 6-Seater | Home Furniture Tables",
+      "seoDescription": "Buy Dining Table 6-Seater in Tables category. Great price & fast delivery.",
+      "searchKeywords": [
+        "tables 48",
+        "Home",
+        "Furniture",
+        "Tables"
+      ],
+      "tags": [
+        "Tables",
+        "Home",
+        "Somalia"
+      ]
+    }
+  },
+  {
+    "id": "p-0049",
+    "slug": "rugs-49",
+    "translations": {
+      "en": {
+        "category": "Home / Decor / Rugs",
+        "name": "Persian Style Rug",
+        "description": "Soft rug with intricate patterns."
+      },
+      "so": {
+        "category": "Home / Decor / Rugs",
+        "name": "Karo Farsii",
+        "description": "Karo jilicsan oo leh naqshad qurux badan."
+      },
+      "ar": {
+        "category": "Home / Decor / Rugs",
+        "name": "سجادة بنمط فارسي",
+        "description": "سجادة ناعمة بنقوش معقدة."
+      },
+      "fr": {
+        "category": "Home / Decor / Rugs",
+        "name": "Tapis style persan",
+        "description": "Tapis doux à motifs complexes."
+      },
+      "es": {
+        "category": "Home / Decor / Rugs",
+        "name": "Alfombra estilo persa",
+        "description": "Alfombra suave con patrones intrincados."
+      }
+    },
+    "price": {
+      "amount": 260.01,
+      "currency": "USD",
+      "originalPrice": 324.16999999999996
+    },
+    "inventory": {
+      "quantity": 29,
+      "sku": "RUGS_49-49",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-302",
+      "name": "MN Wheels & Motors",
+      "logoUrl": "https://picsum.photos/seed/s302/100/100",
+      "region": "Minnesota",
+      "rating": 3.8,
+      "status": "active"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/rugs-49-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/rugs-49-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rugs-49-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/rugs-49-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": null,
+    "analytics": {
+      "views": 1435,
+      "inquiries": 195,
+      "sales": 241,
+      "flags": 0,
+      "ratings": 3.53,
+      "wishlistCount": 34,
+      "cartAdds": 7
+    },
+    "reviews": {
+      "average": 3.89,
+      "count": 40,
+      "breakdown": {
+        "5": 24,
+        "4": 10,
+        "3": 4,
+        "2": 1,
+        "1": 0
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-somalia",
+        "reason": "Prohibited terms in title",
+        "timestamp": "2025-09-16"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-07-07",
+      "updatedAt": "2025-08-11",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "7.62 kg",
+      "dimensions": "63x64x28 cm",
+      "deliveryEstimates": "3-5 days",
+      "returnPolicy": "Refund or replacement within 14 days"
+    },
+    "location": {
+      "country": "USA",
+      "city": "Nairobi",
+      "coordinates": [
+        -40.055808,
+        -68.433521
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Persian Style Rug | Home Decor Rugs",
+      "seoDescription": "Buy Persian Style Rug in Rugs category. Great price & fast delivery.",
+      "searchKeywords": [
+        "rugs 49",
+        "Home",
+        "Decor",
+        "Rugs"
+      ],
+      "tags": [
+        "Rugs",
+        "Home",
+        "Minnesota"
+      ]
+    }
+  },
+  {
+    "id": "p-0050",
+    "slug": "chairs-50",
+    "translations": {
+      "en": {
+        "category": "Home / Furniture / Chairs",
+        "name": "Ergonomic Office Chair",
+        "description": "Adjustable lumbar support and mesh back."
+      },
+      "so": {
+        "category": "Home / Furniture / Chairs",
+        "name": "Kursi Xafiis Ergonomic",
+        "description": "Taageero dhabarka iyo mesh."
+      },
+      "ar": {
+        "category": "Home / Furniture / Chairs",
+        "name": "كرسي مكتب مريح",
+        "description": "دعم قطني قابل للتعديل وظهر شبكي."
+      },
+      "fr": {
+        "category": "Home / Furniture / Chairs",
+        "name": "Chaise de bureau ergonomique",
+        "description": "Soutien lombaire réglable."
+      },
+      "es": {
+        "category": "Home / Furniture / Chairs",
+        "name": "Silla de oficina ergonómica",
+        "description": "Soporte lumbar ajustable."
+      }
+    },
+    "price": {
+      "amount": 268.13,
+      "currency": "USD",
+      "originalPrice": null
+    },
+    "inventory": {
+      "quantity": 17,
+      "sku": "CHAIRS_50-50",
+      "stockStatus": "in_stock"
+    },
+    "seller": {
+      "id": "s-201",
+      "name": "Nairobi AutoMall",
+      "logoUrl": "https://picsum.photos/seed/s201/100/100",
+      "region": "Kenya",
+      "rating": 4.44,
+      "status": "banned"
+    },
+    "media": [
+      {
+        "url": "https://picsum.photos/seed/chairs-50-0/800/800",
+        "type": "image",
+        "primary": true
+      },
+      {
+        "url": "https://picsum.photos/seed/chairs-50-1/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/chairs-50-2/800/800",
+        "type": "image",
+        "primary": false
+      },
+      {
+        "url": "https://picsum.photos/seed/chairs-50-3/800/800",
+        "type": "image",
+        "primary": false
+      }
+    ],
+    "marketing": {
+      "discount": 20,
+      "promotion": "Clearance",
+      "clearance": true,
+      "startDate": "2025-09-20",
+      "endDate": "2025-09-25",
+      "featured": true
+    },
+    "analytics": {
+      "views": 470,
+      "inquiries": 79,
+      "sales": 89,
+      "flags": 0,
+      "ratings": 3.52,
+      "wishlistCount": 70,
+      "cartAdds": 359
+    },
+    "reviews": {
+      "average": 3.52,
+      "count": 508,
+      "breakdown": {
+        "5": 304,
+        "4": 127,
+        "3": 50,
+        "2": 15,
+        "1": 10
+      }
+    },
+    "workflow": {
+      "status": "rejected",
+      "moderation": {
+        "by": "admin-canada",
+        "reason": "Low image quality",
+        "timestamp": "2025-09-14"
+      }
+    },
+    "audit": {
+      "createdAt": "2025-09-09",
+      "updatedAt": "2025-08-09",
+      "publishedAt": null,
+      "deletedAt": null
+    },
+    "shipping": {
+      "weight": "11.76 kg",
+      "dimensions": "44x25x4 cm",
+      "deliveryEstimates": "5-10 days",
+      "returnPolicy": "No returns on clearance"
+    },
+    "location": {
+      "country": "Kenya",
+      "city": "Minneapolis",
+      "coordinates": [
+        4.293758,
+        -85.338126
+      ]
+    },
+    "attributes": {},
+    "seo": {
+      "seoTitle": "Ergonomic Office Chair | Home Furniture Chairs",
+      "seoDescription": "Buy Ergonomic Office Chair in Chairs category. Great price & fast delivery.",
+      "searchKeywords": [
+        "chairs 50",
+        "Home",
+        "Furniture",
+        "Chairs"
+      ],
+      "tags": [
+        "Chairs",
+        "Home",
+        "Kenya"
+      ]
+    }
+  }
+]

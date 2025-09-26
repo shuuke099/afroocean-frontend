@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import data from "@/app/data/categories_full.json";
+import data from "@/data/categories_full.json";
 import { normalizeProducts } from "@/lib/normalizeProducts";
 
 // recursive product finder

@@ -2,10 +2,10 @@ import Hero from "@/components/home/Hero";
 import Container from "@/components/ui/container";
 import ProductList from "@/components/home/ProductList";
 import Link from "next/link";
-import { CategoriesData } from "../data/categories";
+import { CategoriesData } from "../../data/categories";
 import CategoryScroller from "@/components/home/CategoryScroller";
 import CategoryList from "@/components/home/CategoryList";
-
+import productsData from "../../data/productsData.json";
 export const metadata = {
   title: "MultiVendor Marketplace | Fast Deals, Trusted Sellers",
   description:
@@ -42,18 +42,17 @@ export default function HomePage() {
   return (
     <>
       {/* Hero Banner */}
-      <CategoryList/>
+      <CategoryList />
       <Hero />
 
       <Container>
         {/* Categories Section */}
         <section className="mt-6">
-  {/* <h2 className="text-lg font-bold text-primary-light mb-4">
+          {/* <h2 className="text-lg font-bold text-primary-light mb-4">
     Popular Categories
   </h2> */}
-  <CategoryScroller/>
- 
-</section>
+          <CategoryScroller />
+        </section>
 
         {/* Hot Products Section */}
         <section className="mt-3">

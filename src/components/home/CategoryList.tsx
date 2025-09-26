@@ -1,9 +1,12 @@
 "use client";
 import { useState, useEffect } from "react";
 import { useRouter, usePathname } from "next/navigation";
+import Container from "../ui/container";
 
 export default function CategoryList() {
-  const [categories, setCategories] = useState<{ name: string; slug: string }[]>([]);
+  const [categories, setCategories] = useState<
+    { name: string; slug: string }[]
+  >([]);
   const pathname = usePathname();
   const router = useRouter();
 
@@ -35,8 +38,8 @@ export default function CategoryList() {
   };
 
   return (
-    <div className="w-full pb-2 bg-white">
-      <div className="flex overflow-x-auto no-scrollbar px-2 space-x-4">
+    <Container>
+      <div className="flex overflow-x-auto no-scrollbar px-2 space-x-4 mb-2">
         {categories.map((cat) => (
           <button
             key={cat.slug}
@@ -52,6 +55,6 @@ export default function CategoryList() {
           </button>
         ))}
       </div>
-    </div>
+    </Container>
   );
 }

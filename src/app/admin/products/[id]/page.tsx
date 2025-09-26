@@ -1,15 +1,14 @@
 "use client";
 
-import { useParams, useRouter } from "next/navigation";
+import { useParams } from "next/navigation";
 import productsData from "@/data/productsData.json";
 import type { ProductInterface } from "@/data/ProductInterface";
-import ProductGallery from "@/components/ui/productGallery";
 
 export default function ProductDetailPage() {
-  const { id } = useParams();
-  const router = useRouter();
+  const { id } = useParams(); // grab ID from URL
   const products = productsData as unknown as ProductInterface[];
 
+  // Find product by ID
   const product = products.find((p) => p.id === id);
 
   if (!product) {
@@ -21,47 +20,30 @@ export default function ProductDetailPage() {
   }
 
   return (
-    <div className="p-6 space-y-8">
-      {/* Header with Actions */}
-      <div className="flex items-center justify-between">
-        <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-          {product.translations.en.name}
-        </h1>
-        <div className="flex gap-2">
-          {product.workflow?.status === "pending" && (
-            <>
-              <button className="px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700">
-                Approve
-              </button>
-              <button className="px-4 py-2 bg-red-600 text-white rounded hover:bg-red-700">
-                Reject
-              </button>
-            </>
+    <div className="p-6 space-y-6">
+      <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
+        {product.translations.en.name}
+      </h1>
+
+      {/* Basic Info */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Left: image */}
+        <div>
+          {product.media?.[0] ? (
+            <img
+              src={product.media[0].url}
+              alt={product.translations.en.name}
+              className="w-full rounded-lg shadow-md"
+            />
+          ) : (
+            <div className="w-full h-64 bg-gray-200 dark:bg-gray-800 rounded-lg flex items-center justify-center">
+              <span className="text-gray-500">No image available</span>
+            </div>
           )}
-          <button className="px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-600">
-            Flag
-          </button>
-          <button className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
-            Edit
-          </button>
-          <button className="px-4 py-2 bg-gray-600 text-white rounded hover:bg-gray-700">
-            Delete
-          </button>
-          <button
-            onClick={() => router.push("/admin/products")}
-            className="px-4 py-2 bg-gray-200 text-gray-900 rounded hover:bg-gray-300 dark:bg-gray-800 dark:text-gray-100"
-          >
-            Back
-          </button>
         </div>
-      </div>
 
-      {/* Gallery + Info */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <ProductGallery images={product.media?.map((m) => m.url) ?? []} />
-
-        {/* Right Side: Details */}
-        <div className="space-y-4">
+        {/* Right: details */}
+        <div className="space-y-3">
           <p>
             <span className="font-semibold">Category:</span>{" "}
             {product.translations.en.category}
@@ -103,6 +85,19 @@ export default function ProductDetailPage() {
           {product.translations.en.description}
         </p>
       </div>
+
+      {/* Analytics */}
+      {product.analytics && (
+        <div>
+          <h2 className="text-lg font-semibold mb-2">Analytics</h2>
+          <ul className="list-disc list-inside text-gray-700 dark:text-gray-300">
+            <li>Views: {product.analytics.views ?? 0}</li>
+            <li>Inquiries: {product.analytics.inquiries ?? 0}</li>
+            <li>Sales: {product.analytics.sales ?? 0}</li>
+            <li>Wishlist Adds: {product.analytics.wishlistCount ?? 0}</li>
+          </ul>
+        </div>
+      )}
     </div>
   );
 }

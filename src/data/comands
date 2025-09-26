@@ -1,0 +1,79 @@
+# Build & Push Docker Images
+
+# # Auth
+# docker build -f auth/Dockerfile -t adan762/auth:latest .
+# docker push adan762/auth:latest
+
+# # Config Server
+# docker build -f config-server/Dockerfile -t adan762/config-server:latest .
+# docker push adan762/config-server:latest
+
+# # Products
+# docker build -f products/Dockerfile -t adan762/products:latest .
+# docker push adan762/products:latest
+
+# # Orders
+# docker build -f orders/Dockerfile -t adan762/orders:latest .
+# docker push adan762/orders:latest
+
+# # Payments
+# docker build -f payments/Dockerfile -t adan762/payments:latest .
+# docker push adan762/payments:latest
+
+# # Reviews
+# docker build -f reviews/Dockerfile -t adan762/reviews:latest .
+# docker push adan762/reviews:latest
+
+# # Notification
+# docker build -f notification/Dockerfile -t adan762/notification:latest .
+# docker push adan762/notification:latest
+
+# # Gateway
+# docker build -f gateway/Dockerfile -t adan762/gateway:latest .
+# docker push adan762/gateway:latest
+
+# # Eureka
+# docker build -f eureka/Dockerfile -t adan762/eureka:latest .
+# docker push adan762/eureka:latest
+
+# Apply Config & Secrets
+# kubectl apply -f k8s/tinka-config.yaml
+# kubectl apply -f k8s/tinka-secret.yaml
+# kubectl apply -f k8s/config-repo.yaml
+
+# kubectl apply -f k8s/config-server/config-server-deployment.yaml
+# kubectl apply -f k8s/config-server/config-server-service.yaml
+
+# kubectl apply -f k8s/auth/auth-deployment.yaml
+# kubectl apply -f k8s/auth/auth-service.yaml
+
+# kubectl apply -f k8s/products/products-deployment.yaml
+# kubectl apply -f k8s/products/products-service.yaml
+
+# kubectl apply -f k8s/orders/orders-deployment.yaml
+# kubectl apply -f k8s/orders/orders-service.yaml
+
+# kubectl apply -f k8s/payments/payments-deployment.yaml
+# kubectl apply -f k8s/payments/payments-service.yaml
+
+# kubectl apply -f k8s/reviews/reviews-deployment.yaml
+# kubectl apply -f k8s/reviews/reviews-service.yaml
+
+# kubectl apply -f k8s/notification/notification-deployment.yaml
+# kubectl apply -f k8s/notification/notification-service.yaml
+
+# kubectl apply -f k8s/gateway/gateway-deployment.yaml
+# kubectl apply -f k8s/gateway/gateway-service.yaml
+
+# kubectl apply -f k8s/eureka/eureka-deployment.yaml
+# kubectl apply -f k8s/eureka/eureka-service.yaml
+
+# kubectl delete deployment auth
+# kubectl delete deployment config-server
+# kubectl delete deployment products
+# kubectl delete deployment orders
+# kubectl delete deployment payments
+# kubectl delete deployment reviews
+# kubectl delete deployment notification
+# kubectl delete deployment gateway
+# kubectl delete deployment eureka

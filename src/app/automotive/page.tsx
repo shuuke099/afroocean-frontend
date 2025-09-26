@@ -1,11 +1,12 @@
 "use client";
 
 import { Car, Wrench, Fuel, ShieldCheck, Users } from "lucide-react";
-import { automotiveItems } from "@/app/data/automotiveItems";
+import { automotiveItems } from "@/data/automotiveItems";
 import CommonHero from "@/components/common/CommonHero";
 import CategoriesSection from "@/components/common/CategoriesSection";
 import FeaturedListings from "@/components/common/FeaturedListings";
 import WhyChooseUsAutomotive from "@/components/automotive/WhyChooseUsAutomotive";
+import Container from "@/components/ui/container";
 
 export default function AutomotivePage() {
   const automotiveCategories = [
@@ -36,8 +37,7 @@ export default function AutomotivePage() {
   ];
 
   return (
-    <main className="space-y-20">
-      {/* Hero */}
+    <Container>
       <CommonHero
         title="Find Your Next Vehicle, Part, or Service"
         subtitle="Buy, sell, and service with AfroOcean Automotive"
@@ -56,6 +56,6 @@ export default function AutomotivePage() {
         title="Explore Automotive Marketplace"
         categories={automotiveCategories}
       />
-    </main>
+    </Container>
   );
 }

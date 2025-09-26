@@ -8,7 +8,7 @@ export default function SellerDashboard() {
   return (
     <div className="space-y-8">
       {/* KPI Cards */}
-      <KpiSection />
+      <KpiSection role="seller" />
 
       {/* Recent Orders */}
       <OrdersSection />

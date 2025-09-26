@@ -1,20 +1,29 @@
 "use client";
 
-import { CategoriesData } from "@/app/data/categories";
+import { CategoriesData } from "@/data/categories";
 import Image from "next/image";
 import Link from "next/link";
 
 type Props = {
   gridClasses?: string;
   limit?: number;
-  showMore?: boolean;        // ✅ new flag
-  showMoreLink?: string;     // ✅ optional link
+  showMore?: boolean; // ✅ new flag
+  showMoreLink?: string; // ✅ optional link
 };
 
-export default function CategoryGrid({ gridClasses, limit, showMore, showMoreLink }: Props) {
+export default function CategoryGrid({
+  gridClasses,
+  limit,
+  showMore,
+  showMoreLink,
+}: Props) {
   // if showMore is true → reserve 1 slot for "View More"
   const data =
-    limit && showMore ? CategoriesData.slice(0, limit - 1) : limit ? CategoriesData.slice(0, limit) : CategoriesData;
+    limit && showMore
+      ? CategoriesData.slice(0, limit - 1)
+      : limit
+      ? CategoriesData.slice(0, limit)
+      : CategoriesData;
 
   return (
     <div className={gridClasses}>
@@ -52,7 +61,6 @@ export default function CategoryGrid({ gridClasses, limit, showMore, showMoreLin
 </div>
 
 )} */}
-
     </div>
   );
 }

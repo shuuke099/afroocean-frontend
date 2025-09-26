@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { properties } from "@/app/data/properties";
+import { properties } from "@/data/properties";
 import PropertyDetail from "./PropertyDetail";
 
 export async function generateMetadata({

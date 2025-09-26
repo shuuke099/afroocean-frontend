@@ -8,7 +8,7 @@ import PropertyTypeDropdown from "@/components/common/PropertyTypeDropdown";
 import FiltersModal from "@/components/real-state/FiltersModal";
 import SortDropdown from "@/components/common/SortDropdown";
 import { slugify } from "@/lib/slugify";
-import { properties } from "@/app/data/properties";
+import { properties } from "@/data/properties";
 
 export default function RealEstatePage() {
   const [list] = useState(properties);

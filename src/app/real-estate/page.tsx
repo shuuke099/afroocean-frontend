@@ -7,7 +7,7 @@ import ExploreCategories from "@/components/real-state/ExploreRealEstateCategori
 import Container from "@/components/ui/container";
 import FooterLinks from "@/components/home/FooterLinks";
 import CommonHero from "@/components/common/CommonHero";
-import { properties } from "../data/properties";
+import { properties } from "../../data/properties";
 import WhyChooseUsRealEstate from "@/components/real-state/WhyChooseUsRealEstate";
 
 export default function RealEstateLanding() {
