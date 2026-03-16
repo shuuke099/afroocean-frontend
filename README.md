@@ -1,39 +1,116 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AfricOcean Marketplace Frontend
 
-## Getting Started
+This repository contains the frontend for the **AfricOcean Marketplace MVP**.
 
-First, run the development server:
+The goal of this project is to build a scalable **multi-vendor marketplace platform** inspired by platforms such as Temu and Alibaba, starting with a Minimum Viable Product (MVP).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Some parts of the frontend have already been implemented, but the project requires further refinement, restructuring, and completion.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The frontend is built using modern web technologies:
 
-## Learn More
+- **Next.js (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **React**
+- **REST API integration (planned with Node.js / Express backend)**
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project Status
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This repository contains an **early-stage frontend implementation**.
 
-## Deploy on Vercel
+Some sections are already implemented, while other parts still require development and improvement.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Areas that need attention include:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# afroocean-frontend
-# afroocean-frontend
-# marketplace-frontend
+- Frontend architecture refinement
+- Component organization and structure
+- Seller dashboard implementation
+- Admin dashboard functionality
+- Shopping cart and checkout flow
+- Orders management
+- Payment integration
+- API integration with backend services
+
+---
+
+## Marketplace Model
+
+The platform is designed as a **multi-vendor marketplace**, which means:
+
+- Buyers can browse and purchase products
+- Sellers can list and manage their products
+- Admins manage platform operations and marketplace governance
+
+The system will include:
+
+- Buyer interface
+- Seller dashboard
+- Admin dashboard
+
+---
+
+## Multi-Language Support
+
+The platform will support multiple languages.
+
+Planned languages include:
+
+- English
+- Somali
+- French
+- Spanish
+
+Internationalization will be implemented in the frontend architecture.
+
+---
+
+## Project Goal (MVP Phase)
+
+The goal of the current phase is to:
+
+- Review and improve the existing frontend structure
+- Complete missing sections and pages
+- Prepare the frontend for backend integration
+- Build a clean foundation for future scalability
+
+The backend will be developed separately using:
+
+- Node.js
+- Express
+- PostgreSQL
+
+---
+
+## Future Vision
+
+After the MVP is completed, the platform will evolve toward:
+
+- Microservices architecture
+- Mobile applications
+- Expanded marketplace features
+- Advanced seller tools
+- Global marketplace scaling
+
+---
+
+## Repository Purpose
+
+This repository is shared with developers for **review and improvement of the current frontend implementation**.
+
+Developers reviewing this project are encouraged to:
+
+- Suggest architectural improvements
+- Refactor components and structure
+- Help complete the missing frontend functionality
+
+---
+
+## Author
+
+AfricOcean Marketplace Project
